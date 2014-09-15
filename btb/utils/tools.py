@@ -7,7 +7,7 @@ from __future__ import division
 
 import numpy as np
 import wikidat.utils.ipresolver as ipr
-import wikidat.utils.userresolver as usr
+import btb.utils.userresolver as usr
 
 def countContributions(items, resolve):
     '''
