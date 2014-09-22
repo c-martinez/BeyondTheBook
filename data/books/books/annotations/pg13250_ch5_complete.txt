@@ -1,0 +1,158 @@
+Crime,35.76%
+Theft,21.16%
+Bell,3.00%
+Liberty,3.00%
+Belgium,2.98%
+Church,2.98%
+Experiment,2.98%
+Cloud,2.98%
+New York,2.98%
+Homosexuality,2.98%
+Prophet,2.98%
+Intermission,2.98%
+Blacksmith,2.98%
+Walt Disney Pictures,2.98%
+Particle,2.98%
+Lawyer,2.98%
+Duck,2.98%
+Joke,2.98%
+Candy,2.98%
+Detective,2.98%
+Robbery,2.98%
+Burglary,2.98%
+Undercover,2.98%
+Town square,2.98%
+Barn,2.98%
+Wholesale,2.98%
+Deacon,2.90%
+Scranton, Pennsylvania,2.90%
+Arrest,2.87%
+Police,2.79%
+Death,1.69%
+Search engine,1.69%
+Window,1.69%
+Head,1.69%
+Leader,1.69%
+Eye,1.69%
+Road,1.69%
+Man,1.69%
+Woman,1.69%
+Paul the Apostle,1.69%
+Hand,1.69%
+Hearing,1.69%
+Fear,1.69%
+Hockey,1.69%
+Door,1.69%
+Smile,1.69%
+Hide,1.69%
+Order (biology),1.69%
+Running,1.69%
+Positive number,1.69%
+Ring,1.69%
+Fellow,1.69%
+Matter,1.69%
+Innocence,1.69%
+Officer,1.69%
+Single (music),1.69%
+7 (number),1.69%
+Pity,1.69%
+Reason,1.69%
+Conviction,1.69%
+Book of Joel,1.69%
+Packet (computing),1.69%
+Judaism,1.69%
+Fault (geology),1.69%
+General officer,1.69%
+Damage,1.69%
+Edward Winslow,1.69%
+Square,1.63%
+Shock,1.63%
+Shop,1.62%
+Cigarette,1.59%
+Chest,1.59%
+Good (economics),1.59%
+Sunday,1.53%
+Interview,1.52%
+Plain,1.52%
+Coat (dog),1.52%
+Gang,1.48%
+City,1.47%
+Law,1.47%
+Prediction,1.47%
+Sound,1.47%
+Sport,1.47%
+Word,1.47%
+Game,1.47%
+Time,1.47%
+Force,1.47%
+Property,1.47%
+Question,1.47%
+Ice,1.47%
+Evidence,1.47%
+Human,1.47%
+Enemy,1.47%
+Face,1.47%
+Point (geometry),1.47%
+House,1.47%
+Entertainment,1.47%
+Position,1.47%
+Street,1.47%
+World,1.47%
+York,1.47%
+Boy,1.47%
+Mind,1.47%
+Degree (school),1.47%
+Saw,1.47%
+Job,1.47%
+Cold,1.47%
+Talk,1.47%
+Past,1.47%
+News,1.47%
+Mother,1.47%
+Son,1.47%
+Yes (band),1.47%
+Learning,1.47%
+Waste,1.47%
+Set,1.47%
+Friendship,1.47%
+Sleep,1.47%
+Error,1.47%
+Mean,1.47%
+Dozen,1.47%
+Laugh,1.47%
+Intelligence,1.47%
+Choice,1.47%
+Morning,1.47%
+Floor,1.47%
+Transparency,1.47%
+Mobster,1.47%
+Raid,1.47%
+Mental confusion,1.47%
+Division (mathematics),1.47%
+Headquarters,1.47%
+Washing,1.47%
+Reputation,1.47%
+Cover version,1.47%
+Military tactics,1.47%
+Doctor Who companions,1.47%
+Match,1.47%
+Doubt,1.47%
+Ice skate,1.47%
+Night,1.47%
+Settler,1.47%
+Finger,1.41%
+Orbital inclination,1.41%
+Pocket,1.37%
+Mass,1.31%
+Clothing,1.31%
+Town,1.31%
+Winter,1.31%
+Guilt (law),1.31%
+Clock,1.31%
+Noise,1.31%
+Lawsuit,1.31%
+Prisoner,1.31%
+WWE Brand Extension,1.31%
+Waterloo station,1.31%
+Scrap,1.31%
+Weather,1.19%

@@ -1,0 +1,256 @@
+Arm,75.49%
+Hearing,1.69%
+Foot,1.47%
+Speculation,2.88%
+Matter,2.88%
+Boy,2.80%
+Man,1.69%
+Subject (grammar),1.69%
+Face,1.47%
+Position,1.47%
+Speech,1.47%
+Single (music),71.74%
+Book,13.59%
+History,12.91%
+Victor Hugo,2.87%
+Reading,2.80%
+Hugo (movie),1.69%
+Time,1.47%
+House,1.47%
+Father,1.47%
+Set,1.47%
+Mathematical proof,1.47%
+Love,1.19%
+Thought,13.65%
+Prediction,13.52%
+Time,5.38%
+Mind,3.56%
+Priest,2.98%
+Silver,2.90%
+Theft,1.69%
+Spoon,1.69%
+Good (philosophy),1.69%
+Literacy,1.47%
+Bread,2.90%
+Theft,1.69%
+Man,1.69%
+Door,1.69%
+Concept,1.69%
+Game,1.47%
+Face,1.47%
+Position,1.47%
+Degree (school),1.47%
+Yes (band),1.47%
+Society,1.31%
+Priest,55.09%
+Reform,11.31%
+Theft,2.98%
+Blouse,2.98%
+Silver,2.90%
+Revelation,2.87%
+Man,1.69%
+Spoon,1.69%
+Emotion,1.69%
+Robbery,1.69%
+Time,1.47%
+Human,1.47%
+Mind,1.47%
+Straight,1.47%
+Doubt,1.47%
+Idea,1.37%
+Fashion,81.37%
+Head,4.11%
+Madness,13.08%
+Scheme (programming language),11.30%
+Convict,47.80%
+Crime,13.12%
+Sink,7.91%
+Animal,1.69%
+Painting,1.69%
+Heart,1.69%
+Fellow,1.69%
+Honour,1.69%
+Hugo (movie),1.69%
+Judge,1.59%
+Mind,1.47%
+Human,1.31%
+Laugh,45.67%
+Penance,29.88%
+Prison,30.09%
+Crime,21.59%
+Law,20.81%
+Book,13.12%
+School,13.12%
+Fine,12.34%
+Egg (biology),2.98%
+Reform,2.98%
+Life,2.81%
+Fiction,1.69%
+Time,1.47%
+Mind,1.47%
+Job,1.47%
+Connection,1.47%
+Machine,30.26%
+Door,3.01%
+Walt Disney Pictures,2.98%
+Police,2.90%
+Scranton, Pennsylvania,2.90%
+Life,2.80%
+Force,2.80%
+Fact,1.69%
+Robbery,1.69%
+Time,1.47%
+Creating,1.47%
+Brush Traction,1.47%
+Night,1.38%
+Truth,80.18%
+Dog,68.76%
+Thought,3.01%
+Citizenship,2.98%
+Position,1.47%
+Felt,1.47%
+Night,1.47%
+Expedition,1.47%
+Town,1.31%
+Idea,1.24%
+Subject (grammar),1.69%
+Weather,30.33%
+Mercury (element),13.66%
+Thermometer,12.95%
+Happiness,1.69%
+Universal suffrage,1.69%
+School,1.69%
+Face,1.47%
+Morning,1.47%
+Sport,25.76%
+Time,13.44%
+High school,2.98%
+Pond,2.98%
+School,2.88%
+Matter,1.69%
+Word,1.47%
+Ice,1.47%
+Week,1.47%
+Mother,1.47%
+Accompaniment (music),1.47%
+Past,1.47%
+Day,47.55%
+Night,20.04%
+Evening,10.18%
+Ethics,1.69%
+Saturday,1.63%
+Adultery,1.47%
+Fatigue,1.47%
+Steel,2.98%
+Skate,2.98%
+Pond,2.87%
+Eye,1.69%
+Happiness,1.69%
+Running,1.69%
+Sue (dinosaur),1.69%
+Ice,1.47%
+Imagination,1.47%
+Season,1.47%
+Knife,1.47%
+Bit,1.47%
+Yes (band),1.47%
+Sheet,1.47%
+Ice skate,1.47%
+Table (furniture),1.47%
+Fatigue,16.84%
+Fellow,10.18%
+Task,1.69%
+Company,1.69%
+House,1.47%
+Walk,1.47%
+Mother,1.47%
+Visitor,81.63%
+Stairs,73.89%
+Go,1.69%
+Position,1.47%
+Matter,3.83%
+Reason,3.01%
+Friends,1.69%
+Subject (grammar),1.69%
+Mother,1.47%
+Set,1.47%
+Mind,1.43%
+Cough,76.59%
+Door,13.12%
+Saw,80.18%
+Hello,1.95%
+Trade,1.69%
+Prediction,1.47%
+Ice skate,1.47%
+Grain,2.98%
+Decency,2.98%
+Cosmetics,2.70%
+Fellow,1.69%
+Foundation,1.63%
+Talk,1.47%
+Idea,1.47%
+Structure,1.47%
+Chair,1.47%
+Striker,1.47%
+Promise,13.52%
+Exhibition game,10.18%
+Trial,1.69%
+Convict,19.61%
+Priest,14.56%
+Moon,13.65%
+Night,2.81%
+Crime,2.78%
+Roof,1.69%
+Horror movie,1.69%
+Time,1.47%
+Property,1.47%
+Sibling,1.47%
+Table (furniture),1.47%
+House,1.37%
+Human,1.21%
+Sexual arousal,27.37%
+Room,11.35%
+Chair,2.80%
+Company,1.69%
+Smile,16.79%
+Ice skate,8.05%
+Nickelodeon,1.69%
+Eye,1.58%
+Face,1.45%
+Ice skate,5.38%
+Thought,3.32%
+Dollar,2.98%
+Running,1.69%
+Management,1.47%
+Dove,1.24%
+Bullying,51.51%
+Hand,1.69%
+Tropical cyclogenesis,1.69%
+Promise,1.47%
+Felt,1.47%
+Ice skate,1.47%
+Orbital inclination,1.41%
+Pity,13.67%
+7 (number),5.59%
+Ice skate,2.81%
+Hockey,1.69%
+Running,1.69%
+Match,1.47%
+Week,13.08%
+Humour,72.95%
+Ice skate,12.01%
+Nickelodeon,1.69%
+Sales,1.69%
+Mind,1.47%
+Door,67.83%
+Desk,53.92%
+Room,21.08%
+Reputation,54.00%
+Thought,48.62%
+Position,1.47%
+Ice skate,1.47%
+Stairs,32.57%
+Room,27.97%
+Table (furniture),3.70%
+Minute,1.47%
+Ice skate,1.47%

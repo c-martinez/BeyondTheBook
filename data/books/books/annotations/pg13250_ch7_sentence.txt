@@ -1,0 +1,277 @@
+Blacksmith,90.97%
+Town,1.31%
+George H. W. Bush,73.04%
+Man,5.54%
+Opinion,1.59%
+Priest,81.26%
+Fiction,1.69%
+Value,18.18%
+Boy,5.08%
+Edward Winslow,39.25%
+Deacon,28.41%
+Gold,2.98%
+Strike action,1.69%
+Waste container,1.47%
+Life,5.44%
+Man,1.69%
+Bitterness,1.69%
+George H. W. Bush,1.47%
+Lesson,1.31%
+Experience,1.24%
+Deacon,38.06%
+Scranton, Pennsylvania,2.79%
+Hearing,1.69%
+Human,1.47%
+Fact,73.89%
+Child,43.46%
+Boy,13.52%
+Cosmetics,13.38%
+Parent,5.44%
+Christian,2.98%
+Book of Joel,1.69%
+Time,1.47%
+Family,1.47%
+Human,1.37%
+Father,26.84%
+Time,4.93%
+Boy,82.98%
+Heart,12.64%
+House,12.00%
+Running,11.29%
+Wound,1.52%
+Mother,1.47%
+Head,1.69%
+Death,68.40%
+Face,1.45%
+Book of Joel,28.26%
+Night,10.18%
+Man,1.69%
+West,1.47%
+Line,1.47%
+Position,1.47%
+Mother,1.47%
+Sight,1.47%
+Sunset,12.55%
+Dreaming (spirituality),2.98%
+Book of Joel,1.69%
+Old age,1.52%
+Word,1.47%
+Question,1.47%
+Sky,1.24%
+Country,1.69%
+Sadness,1.69%
+Size,1.47%
+Town,1.31%
+Poverty,3.02%
+Wheelchair,2.98%
+Sun,2.90%
+Head,1.69%
+Sadness,1.69%
+Boy,1.47%
+Set,1.47%
+Evening,1.47%
+Second Coming,1.47%
+Validity,1.47%
+Existence,67.83%
+Dream,14.36%
+Book of Joel,67.83%
+Health,37.95%
+Muscle,16.05%
+Deacon,13.66%
+Skin,6.00%
+George H. W. Bush,2.80%
+Man,1.69%
+Task,1.69%
+Subject (grammar),1.69%
+Anxiety,1.43%
+Connection,1.37%
+Boy,80.18%
+Love,75.47%
+Sadness,71.74%
+Wife,19.59%
+Depth,28.26%
+Felt,13.08%
+Penance,18.94%
+Fault (geology),11.29%
+Learning,70.18%
+Home computer,3.18%
+Whirlpool,88.46%
+Sadness,1.69%
+Eating,1.47%
+Fate,1.31%
+Poverty,74.86%
+Writing,2.80%
+Mother,1.47%
+Book of Joel,67.83%
+Nature,71.81%
+Deacon,12.95%
+Protestant Reformation,2.98%
+Meeting,1.69%
+Smile,90.47%
+Boy,2.81%
+Fine,1.69%
+Miracle,71.81%
+Miracle,71.81%
+Heart,11.32%
+World,2.80%
+Missouri,2.98%
+Grandparent,14.79%
+Courthouse,13.59%
+Court,5.65%
+Mississippi,2.98%
+American Civil War,1.69%
+Ulysses S. Grant,1.69%
+War,1.47%
+House,1.47%
+Saw,1.47%
+Surrender (military),1.47%
+Prejudice,75.46%
+Blood,73.46%
+Pig,81.46%
+Deacon,37.22%
+Prophet,1.47%
+Weather,1.09%
+Management,84.05%
+Truth,1.47%
+Album,1.47%
+Equality (mathematics),1.47%
+Washington (state),1.37%
+Deacon,88.98%
+Week,80.18%
+Day,70.18%
+Winter,78.00%
+Heat,70.35%
+Cold,67.58%
+Nature (journal),50.73%
+Summer,50.36%
+Time,78.15%
+Hit (baseball),1.69%
+Weather,78.79%
+Observation,47.07%
+Science,2.13%
+Nobility,1.69%
+Prediction,77.84%
+Winter,2.11%
+Laugh,28.26%
+Christmas,14.23%
+Human,1.47%
+Cold,1.47%
+Precious metal,1.47%
+Weather,78.79%
+Position,13.70%
+Northwest,2.80%
+Blacksmith,80.97%
+Nature (journal),1.47%
+Nut (fruit),75.79%
+Caterpillar,75.70%
+Bark,74.63%
+Tree,32.27%
+Shop,1.69%
+Weaving,1.31%
+Cosmetics,73.04%
+Symbol,1.47%
+Mind,1.47%
+Weather,31.17%
+Laugh,24.00%
+Speech,1.47%
+Prediction,1.37%
+Instinct,88.47%
+Woodland,20.00%
+Animal,15.95%
+Honey,78.56%
+Bee,74.85%
+Stock,1.69%
+Winter,1.08%
+Time,22.78%
+Deacon,19.61%
+Knowledge,12.55%
+Shop,1.69%
+Mean,1.47%
+Wife,1.47%
+Fine,1.69%
+Wheel,47.09%
+Energy,10.18%
+Transport,1.47%
+House,1.47%
+Chair,1.47%
+Work (physics),1.47%
+Explanation,5.38%
+Diurnal,3.01%
+Girl,1.24%
+Bread,83.42%
+Cake,67.83%
+Edward Winslow,1.69%
+Lie,23.47%
+Hearing,17.64%
+World,1.47%
+Anxiety,54.41%
+Parent,39.21%
+House,2.10%
+Family,1.47%
+Constant,1.47%
+Compilation,13.08%
+Cake,10.18%
+Edward Winslow,74.85%
+Taste,41.34%
+Cooking,6.33%
+Happiness,2.32%
+Time,1.47%
+Subject (grammar),1.69%
+Yes (band),74.85%
+Pond,88.42%
+Siberian Husky,34.20%
+Saw,13.52%
+Proposition,2.98%
+Ice,2.67%
+Saw,28.26%
+Subject (grammar),1.69%
+Game,1.47%
+Job,1.47%
+Straight,1.47%
+School,71.74%
+Team,2.80%
+Emotion,1.69%
+Practice,16.84%
+Week,13.08%
+Mean,1.47%
+Human body,1.69%
+Movie director,1.69%
+Coach (sport),1.54%
+Boat,74.59%
+Football team,1.69%
+Point (geometry),1.47%
+Weather,20.33%
+Advanced Packaging Tool,16.07%
+Markus Persson,2.80%
+Central nervous system,1.69%
+Speed,1.47%
+Race (sociology),1.47%
+Coach (sport),1.31%
+Knowledge,81.63%
+Value,70.18%
+Talk,1.47%
+Sport,75.07%
+College,73.46%
+Man,1.69%
+Talk,1.47%
+Town,1.31%
+Road,69.74%
+Travel,30.30%
+Information technology,1.69%
+Crucifixion,1.47%
+Blacksmith,36.22%
+Emotion,1.69%
+Fictional character,1.69%
+Pound sterling,1.69%
+Drawing,1.47%
+Church,49.47%
+Tragedy,44.61%
+Deacon,19.89%
+Life,2.81%
+Circle,1.69%
+Deacon,38.26%
+Edward Winslow,33.47%
+Prophet,2.98%
+Fact,1.69%
+Nature (journal),1.47%
+Weather,1.19%

@@ -1,0 +1,172 @@
+Church,2.98%
+Crime,2.98%
+Experiment,2.98%
+Mile,2.98%
+Soul,2.98%
+Advertising,2.98%
+Physical exercise,2.98%
+Hammer,2.98%
+Judge,2.98%
+Blacksmith,2.98%
+Deacon,2.98%
+Bone,2.98%
+Priest,2.98%
+Profession,2.98%
+Joke,2.98%
+Skate,2.98%
+Siberian Husky,2.98%
+Prophecy,2.98%
+Horn (musical instrument),2.98%
+Corporation,2.98%
+Anvil,2.98%
+Candy,2.98%
+Dignity,2.98%
+Robbery,2.98%
+Vocation,2.98%
+Human nature,2.98%
+Gutter (philately),2.98%
+Revelation,2.98%
+Police,2.90%
+Scranton, Pennsylvania,2.90%
+Horse,2.87%
+Chemical element,1.69%
+Fine,1.69%
+Goodness,1.69%
+Pet,1.69%
+Gun,1.69%
+Head,1.69%
+Eye,1.69%
+Road,1.69%
+Man,1.69%
+Play (theatre),1.69%
+Electric charge,1.69%
+Fact,1.69%
+Hand,1.69%
+Muscle,1.69%
+Hearing,1.69%
+Go,1.69%
+Leaf,1.69%
+Fiction,1.69%
+Door,1.69%
+Emotion,1.69%
+Happiness,1.69%
+Flash memory,1.69%
+Poverty,1.69%
+Lie,1.69%
+Order (biology),1.69%
+Positive number,1.69%
+Fellow,1.69%
+Betrayal,1.69%
+Bomb,1.69%
+Matter,1.69%
+Thought,1.69%
+Diurnal,1.69%
+Honour,1.69%
+Stroke,1.69%
+7 (number),1.69%
+Pity,1.69%
+Shame,1.69%
+Reason,1.69%
+Company,1.69%
+Strike action,1.69%
+Strike (attack),1.69%
+Up (2009 movie),1.69%
+Narrator,1.69%
+Hugo (movie),1.69%
+Edward Winslow,1.69%
+Rare,1.69%
+Coming out,1.69%
+Light,1.63%
+Square,1.63%
+Saturday,1.63%
+Scheme (programming language),1.63%
+Book,1.59%
+Cigarette,1.59%
+Opinion,1.59%
+Sunday,1.53%
+Arm,1.52%
+Shop,1.52%
+War in Afghanistan (2001–present),1.52%
+Interview,1.52%
+Shoulder,1.52%
+Car,1.50%
+Wind,1.48%
+Business,1.48%
+Innocence,1.48%
+Life,1.47%
+Law,1.47%
+Like,1.47%
+Nature,1.47%
+Prediction,1.47%
+Reading,1.47%
+Word,1.47%
+War,1.47%
+Time,1.47%
+Force,1.47%
+Second,1.47%
+Property,1.47%
+Question,1.47%
+Hour,1.47%
+Day,1.47%
+Ice,1.47%
+Face,1.47%
+Point (geometry),1.47%
+House,1.47%
+Drawing,1.47%
+Position,1.47%
+Heat,1.47%
+Boy,1.47%
+Truth,1.47%
+Mind,1.47%
+George H. W. Bush,1.47%
+Bit,1.47%
+Saw,1.47%
+Cross,1.47%
+Job,1.47%
+Rule,1.47%
+Past,1.47%
+Learning,1.47%
+Idea,1.47%
+Connection,1.47%
+Waste,1.47%
+Surface,1.47%
+Friendship,1.47%
+Odd number,1.47%
+Domestication,1.47%
+Mean,1.47%
+Intelligence,1.47%
+Morning,1.47%
+Speech,1.47%
+Lip,1.47%
+Wisdom,1.47%
+Transparency,1.47%
+Jötnar,1.47%
+Walk,1.47%
+Raid,1.47%
+Felt,1.47%
+Official,1.47%
+Therapy,1.47%
+Mathematical proof,1.47%
+Hit record,1.47%
+Justice,1.47%
+Ice skate,1.47%
+Fatigue,1.47%
+Arrangement (music),1.47%
+Night,1.47%
+Silent movie,1.47%
+Limit (mathematics),1.47%
+Marriage,1.47%
+Motivation,1.47%
+Monday,1.47%
+Human,1.41%
+Orbital inclination,1.41%
+Belief,1.37%
+Smith (metalwork),1.37%
+Soap,1.31%
+Town,1.31%
+Winter,1.31%
+Evil,1.31%
+Clock,1.31%
+Prisoner,1.31%
+Fate,1.31%
+The Labors of Herakles,1.31%

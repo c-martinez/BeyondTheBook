@@ -1,0 +1,253 @@
+Morning,75.07%
+Clock,70.57%
+Ice hockey,1.47%
+Match,1.47%
+Scranton, Pennsylvania,43.35%
+Baseball,2.98%
+Pupil (eye),1.69%
+Game,1.47%
+Summer,1.37%
+Town,1.31%
+Critic,2.98%
+Hand,1.69%
+Number,1.47%
+Mathematical proof,1.47%
+Gentry,1.47%
+Judgment,1.47%
+Applause,1.21%
+Sport,80.18%
+College,73.46%
+Man,1.69%
+Scranton, Pennsylvania,76.82%
+Investment,81.58%
+Building,80.18%
+Sport,1.47%
+Business,43.46%
+Fence,33.30%
+Lumber,1.69%
+Air,1.47%
+Solid,75.49%
+Water,60.74%
+Freezing,34.67%
+Depth,24.75%
+Position,1.47%
+Dimension,3.11%
+List of NHL players,2.27%
+Ice hockey,1.47%
+Ice,1.24%
+Pond,88.14%
+General officer,1.69%
+Game,1.47%
+Science,58.50%
+Measurement,43.55%
+Game,1.47%
+Rule,1.47%
+Rink,1.47%
+Fashion,13.78%
+Ice,2.80%
+Goal (ice hockey),1.69%
+Centre (ice hockey),1.69%
+Extremism,1.69%
+Fishing net,1.47%
+Scranton, Pennsylvania,28.40%
+7 (number),8.05%
+Leader,1.69%
+Matter,27.16%
+Sound,14.53%
+Gold,11.19%
+Crisis,1.63%
+Position,1.47%
+Judgment,1.47%
+Angles,10.18%
+Baseball,2.98%
+Team,1.47%
+Summer,1.37%
+High school,10.18%
+Recognition,10.18%
+Friends,1.69%
+Fiction,1.69%
+List,1.47%
+Literacy,1.47%
+Swift,78.17%
+Wing,72.36%
+Fine,1.69%
+Hockey,1.69%
+Hockey stick,1.69%
+Addition,1.47%
+Team,1.47%
+Hearing,62.71%
+Instruction (computer science),1.69%
+Referee,55.74%
+Umpire,43.80%
+Teacher,26.14%
+Coach (sport),10.89%
+Scranton, Pennsylvania,2.79%
+Physics,1.47%
+Frank Marshall (movie producer),54.19%
+Marshall Islands,2.31%
+Position,1.47%
+Lawrence, Kansas,77.65%
+Game,1.47%
+Team,1.47%
+Word,72.38%
+Time,68.32%
+Play (activity),1.69%
+Mother,1.47%
+7 (number),3.32%
+Moment (physics),3.11%
+Plectrum,1.69%
+Team,1.47%
+Substitute good,1.45%
+Action movie,11.30%
+Anger,10.18%
+Position,1.47%
+Swift,1.27%
+Ownership,5.59%
+Ice skate,1.38%
+Saw,65.07%
+Line,1.47%
+Rival,1.69%
+Game,1.47%
+Fate,1.31%
+Scranton, Pennsylvania,9.50%
+Bully (video game),2.98%
+Movie criticism,1.69%
+7 (number),1.69%
+Captain,1.52%
+Suggestion,1.47%
+Game,1.47%
+Time,1.47%
+Straight,1.47%
+Ice skate,75.07%
+Silver,2.90%
+Birthday,70.57%
+Gift,67.83%
+Mother,1.47%
+Heart,1.69%
+Punishment,72.33%
+Mind,15.01%
+Unfree labour,1.69%
+Game,1.47%
+Nature,81.63%
+Good (philosophy),3.01%
+Smile,71.22%
+Villain,2.98%
+Hockey puck,27.06%
+Rubber,10.21%
+Gun,1.69%
+Game,1.47%
+Rink,1.47%
+Possession,1.47%
+Legitimacy,1.47%
+Scranton, Pennsylvania,2.79%
+Goal (ice hockey),1.69%
+Credit,1.69%
+Minute,1.47%
+Period (geology),1.47%
+Military tactics,1.47%
+Hockey puck,72.36%
+Captain,1.52%
+Striker,1.47%
+Rubber,36.67%
+Ice,5.24%
+Fashion,2.87%
+Value,1.47%
+Flight,1.47%
+Possession,1.47%
+Management,1.47%
+Miracle,1.19%
+Bully (video game),2.98%
+Hockey puck,52.76%
+Intelligence,26.14%
+Army,1.69%
+20 (number),1.69%
+Labour (economics),1.69%
+Goal (ice hockey),1.69%
+Shooting,1.47%
+Handshake,41.18%
+Felt,5.38%
+Hand,1.69%
+Accident,4.79%
+Scranton, Pennsylvania,76.82%
+Eye,1.69%
+Wisdom,75.49%
+Head,1.69%
+Fellow,63.28%
+Hand,1.69%
+Game,1.47%
+Happiness,71.74%
+Job,1.47%
+Security,1.63%
+Warm,1.47%
+Game,1.47%
+Referee,73.46%
+Rule,57.33%
+Violence,43.77%
+Sharp (music),8.05%
+Eye,2.98%
+Intermission,82.40%
+Ice skating,5.30%
+Ice,82.98%
+Walt Disney Pictures,2.98%
+Skate,3.10%
+Chat,1.69%
+Head,1.69%
+Agreement,1.47%
+Saw,1.47%
+Persuasion,1.47%
+Bully (video game),2.98%
+Combat,1.47%
+Play (theatre),1.69%
+Intermission,84.18%
+Task,1.69%
+7 (number),69.74%
+Team,8.05%
+Play (theatre),1.69%
+Video game developer,1.69%
+Fault (geology),67.83%
+Boy,80.18%
+Wisdom,74.85%
+Fellow,10.18%
+7 (number),10.18%
+Grain,2.98%
+Star,1.52%
+Captain,1.52%
+Striker,1.47%
+Ice hockey,88.95%
+Ice,73.52%
+Game,3.70%
+Heat,1.47%
+Referee,6.33%
+Energy,1.69%
+Judgment,1.47%
+Scranton, Pennsylvania,28.40%
+Lawrence, Kansas,11.35%
+Game,1.47%
+Competition,65.60%
+Product (business),1.47%
+Goal (ice hockey),1.69%
+Error (baseball),1.69%
+Light,1.63%
+Practice,1.47%
+Ice,75.07%
+Game,3.70%
+Fine,1.69%
+Communication,1.69%
+Energy,1.69%
+Position,1.47%
+Choice,73.04%
+Play (theatre),1.69%
+Position,1.47%
+Straight,1.47%
+Cosmetics,53.04%
+Pity,46.17%
+Dandy,93.61%
+Sport,63.45%
+Hand,1.69%
+Night,70.18%
+Scranton, Pennsylvania,76.82%
+Seed,90.70%
+Soil,79.92%
+Root,18.52%
+Depth,2.81%
+Heart,1.69%

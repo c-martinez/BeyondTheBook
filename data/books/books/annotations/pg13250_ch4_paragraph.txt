@@ -1,0 +1,249 @@
+Clock,61.01%
+Morning,13.52%
+Baseball,2.98%
+Scranton, Pennsylvania,2.90%
+Pupil (eye),1.69%
+Hockey,1.69%
+Game,1.47%
+Match,1.47%
+Summer,1.37%
+Town,1.31%
+Critic,2.98%
+Scranton, Pennsylvania,2.90%
+College,2.87%
+Building,2.80%
+Sport,1.73%
+Man,1.69%
+Hand,1.69%
+Investment,1.69%
+Number,1.47%
+Job,1.47%
+Mathematical proof,1.47%
+Gentry,1.47%
+Judgment,1.47%
+Applause,1.31%
+Solid,44.69%
+Water,36.99%
+Pond,29.16%
+Ice,13.30%
+Depth,5.30%
+Freezing,3.01%
+Air,2.67%
+Hockey,1.69%
+General officer,1.69%
+Fence,1.59%
+Business,1.48%
+Dimension,1.47%
+Game,1.47%
+Position,1.47%
+List of NHL players,1.47%
+Fashion,13.22%
+Rink,4.60%
+Ice,2.97%
+Science,2.80%
+Goal (ice hockey),1.69%
+Centre (ice hockey),1.69%
+Extremism,1.69%
+Law,1.47%
+Fishing net,1.47%
+Game,1.47%
+Measurement,1.47%
+Scranton, Pennsylvania,2.90%
+Matter,2.88%
+Sound,2.80%
+Gold,1.69%
+Leader,1.69%
+7 (number),1.69%
+Crisis,1.63%
+Position,1.47%
+Judgment,1.47%
+Angles,10.18%
+Baseball,2.98%
+Team,1.47%
+Summer,1.37%
+High school,10.18%
+Recognition,10.18%
+Friends,1.69%
+Fiction,1.69%
+List,1.47%
+Literacy,1.47%
+Referee,2.98%
+Scranton, Pennsylvania,2.90%
+Fine,1.69%
+Hearing,1.69%
+Hockey,1.69%
+Hockey stick,1.69%
+Instruction (computer science),1.69%
+Addition,1.47%
+Teacher,1.47%
+Team,1.47%
+Wing,1.38%
+Coach (sport),1.31%
+Swift,1.27%
+Frank Marshall (movie producer),23.22%
+Scranton, Pennsylvania,2.90%
+Marshall Islands,1.69%
+Lawrence, Kansas,1.69%
+Position,1.47%
+Play (theatre),1.69%
+Plectrum,1.69%
+7 (number),1.69%
+Substitute good,1.69%
+Word,1.47%
+Game,1.47%
+Time,1.47%
+Mother,1.47%
+Team,1.47%
+Moment (physics),1.47%
+Anger,1.69%
+Ownership,1.69%
+Action movie,1.63%
+Position,1.47%
+Ice skate,1.47%
+Swift,1.37%
+Saw,82.60%
+Game,3.70%
+Rival,1.69%
+Line,1.47%
+Fate,1.31%
+Scranton, Pennsylvania,9.50%
+Bully (video game),2.98%
+Movie criticism,1.69%
+7 (number),1.69%
+Captain,1.52%
+Suggestion,1.47%
+Game,1.47%
+Time,1.47%
+Straight,1.47%
+Birthday,80.42%
+Gift,57.63%
+Silver,2.90%
+Heart,1.69%
+Mother,1.47%
+Ice skate,1.47%
+Punishment,72.33%
+Mind,15.01%
+Unfree labour,1.69%
+Game,1.47%
+Smile,24.33%
+Nature,23.58%
+Villain,2.98%
+Good (philosophy),1.69%
+Hockey puck,27.06%
+Rubber,10.21%
+Gun,1.69%
+Game,1.47%
+Rink,1.47%
+Possession,1.47%
+Legitimacy,1.47%
+Scranton, Pennsylvania,2.79%
+Goal (ice hockey),1.69%
+Credit,1.69%
+Minute,1.47%
+Period (geology),1.47%
+Rubber,34.43%
+Hockey puck,9.82%
+Ice,5.30%
+Fashion,2.98%
+Bully (video game),2.98%
+Captain,1.52%
+Value,1.47%
+Defense,1.47%
+Job,1.47%
+Flight,1.47%
+Intelligence,1.47%
+Possession,1.47%
+Military tactics,1.47%
+Management,1.47%
+Striker,1.47%
+Shooting,1.47%
+Miracle,1.19%
+Handshake,3.82%
+Felt,2.80%
+Hand,1.69%
+Accident,1.31%
+Scranton, Pennsylvania,76.82%
+Eye,1.69%
+Happiness,78.78%
+Wisdom,77.65%
+Hand,11.57%
+Head,1.69%
+Fellow,1.69%
+Game,1.47%
+Job,1.47%
+Referee,73.46%
+Rule,58.24%
+Game,5.33%
+Security,1.63%
+Music,1.47%
+Warm,1.47%
+Violence,43.77%
+Sharp (music),8.05%
+Eye,2.98%
+Ice skating,28.12%
+Ice,10.04%
+Walt Disney Pictures,2.98%
+Intermission,2.74%
+Skate,43.77%
+Bully (video game),2.98%
+Chat,1.69%
+Head,1.69%
+Agreement,1.47%
+Saw,1.47%
+Combat,1.47%
+Persuasion,1.47%
+Play (theatre),1.69%
+Wisdom,34.68%
+Intermission,3.89%
+Boy,2.80%
+Play (theatre),1.69%
+Video game developer,1.69%
+7 (number),1.69%
+Task,1.69%
+Fault (geology),1.69%
+Team,1.47%
+Fellow,10.18%
+7 (number),10.18%
+Grain,2.98%
+Star,1.52%
+Captain,1.52%
+Striker,1.47%
+Referee,22.04%
+Ice hockey,20.45%
+Scranton, Pennsylvania,2.90%
+Ice,2.80%
+Energy,1.69%
+Lawrence, Kansas,1.69%
+Game,1.47%
+Heat,1.47%
+Judgment,1.47%
+Practice,3.11%
+Competition,2.67%
+Goal (ice hockey),1.69%
+Error (baseball),1.69%
+Light,1.63%
+Game,1.47%
+Property,1.47%
+Sheet music,1.47%
+Ice,75.07%
+Game,3.70%
+Fine,1.69%
+Communication,1.69%
+Energy,1.69%
+Position,1.47%
+Sport,24.33%
+Dandy,2.98%
+Play (theatre),1.69%
+Hand,1.69%
+Pity,1.59%
+Position,1.47%
+Straight,1.47%
+Choice,1.47%
+Night,1.47%
+Cosmetics,1.37%
+Soil,68.16%
+Seed,44.99%
+Root,10.64%
+Scranton, Pennsylvania,2.90%
+Heart,1.69%
+Depth,1.47%

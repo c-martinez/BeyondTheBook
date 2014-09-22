@@ -1,0 +1,265 @@
+Arm,75.49%
+Hearing,1.69%
+Foot,1.47%
+Speculation,2.88%
+Matter,2.88%
+Boy,2.80%
+Man,1.69%
+Subject (grammar),1.69%
+Face,1.47%
+Position,1.47%
+Speech,1.47%
+Single (music),71.74%
+History,63.47%
+Mathematical proof,17.37%
+Romance (love),1.41%
+Father,75.04%
+Reading,75.08%
+Book,42.11%
+Time,16.84%
+Victor Hugo,88.86%
+House,1.47%
+Set,1.47%
+Prediction,71.94%
+Thought,3.01%
+Priest,2.98%
+Silver,2.90%
+Time,2.80%
+Theft,1.69%
+Spoon,1.69%
+Good (philosophy),1.69%
+Mind,1.47%
+Literacy,1.47%
+Yes (band),74.85%
+Society,16.34%
+Door,3.77%
+Bread,2.79%
+Theft,1.69%
+Man,1.69%
+Concept,1.69%
+Face,1.47%
+Degree (angle),1.69%
+Position,1.47%
+Game,1.47%
+Doubt,1.47%
+Reform,84.78%
+Idea,73.39%
+Emotion,1.69%
+Human,1.47%
+Priest,28.77%
+Theft,2.98%
+Blouse,2.98%
+Silver,2.90%
+Revelation,2.87%
+Man,1.69%
+Spoon,1.69%
+Robbery,1.69%
+Time,1.47%
+Mind,1.47%
+Straight,1.47%
+Fashion,81.37%
+Head,4.11%
+Madness,13.08%
+Scheme (programming language),11.30%
+Convict,84.91%
+Crime,67.55%
+Human,16.49%
+Animal,1.69%
+Painting,76.69%
+Honour,1.69%
+Hugo (movie),1.69%
+Animal,1.59%
+Justice,1.37%
+Sink,76.52%
+Heart,1.69%
+Fellow,1.69%
+Mind,1.47%
+Laugh,45.67%
+Penance,29.88%
+Life,80.18%
+Reality,10.18%
+Job,3.11%
+Fine,2.32%
+Fiction,1.69%
+Book,69.74%
+Egg (biology),2.98%
+Mind,1.47%
+Prison,54.46%
+Reform,30.56%
+School,14.79%
+Fine,1.69%
+Law,45.77%
+Crime,5.47%
+Time,1.47%
+Connection,1.47%
+Police,11.23%
+Walt Disney Pictures,2.98%
+Scranton, Pennsylvania,2.90%
+Life,1.47%
+Force,1.47%
+Machine,50.82%
+Door,13.59%
+Night,12.01%
+Fact,1.69%
+Robbery,1.69%
+Time,1.47%
+Creating,1.47%
+Brush Traction,1.47%
+Truth,80.18%
+Dog,78.56%
+Left-handedness,1.69%
+Position,1.47%
+Idea,30.96%
+Expedition,16.84%
+Night,1.47%
+Town,1.31%
+Citizenship,80.24%
+Felt,13.52%
+Guilt (law),1.31%
+Idea,74.85%
+Thought,73.89%
+Probability,1.47%
+Subject (grammar),1.69%
+Weather,27.06%
+Morning,26.14%
+Mercury (element),42.89%
+Thermometer,20.56%
+Happiness,1.69%
+Universal suffrage,1.69%
+School,1.69%
+Face,1.47%
+School,21.59%
+Pond,19.23%
+Week,5.38%
+High school,2.98%
+Ice,1.47%
+Time,2.80%
+Mother,1.47%
+Accompaniment (music),1.24%
+Sport,13.78%
+Matter,3.01%
+Word,1.47%
+Past,1.47%
+Day,47.55%
+Night,20.04%
+Evening,10.18%
+Ethics,1.69%
+Saturday,1.63%
+Adultery,1.47%
+Fatigue,1.47%
+Ice skate,70.18%
+Table (furniture),1.47%
+Bit,75.49%
+Pond,23.22%
+Steel,2.98%
+Imagination,2.81%
+Sheet,2.80%
+Eye,1.69%
+Happiness,1.69%
+Running,1.69%
+Ice,1.47%
+Knife,1.47%
+Skate,3.38%
+Sue (dinosaur),1.69%
+Season,1.47%
+Yes (band),1.37%
+Task,1.69%
+Fatigue,16.84%
+Fellow,10.18%
+Company,1.69%
+House,1.47%
+Walk,1.47%
+Mother,1.47%
+Stairs,29.88%
+Go,28.26%
+Position,1.47%
+Visitor,71.81%
+Matter,3.83%
+Reason,3.01%
+Friends,1.69%
+Subject (grammar),1.69%
+Mother,1.47%
+Set,1.47%
+Mind,1.43%
+Door,67.83%
+Cough,85.29%
+Saw,80.18%
+Hello,72.36%
+Trade,1.69%
+Hello,1.69%
+Prediction,1.47%
+Ice skate,1.47%
+Chair,1.47%
+Striker,1.47%
+Fellow,3.91%
+Grain,2.98%
+Decency,2.98%
+Cosmetics,2.57%
+Foundation,1.63%
+Talk,1.47%
+Idea,1.47%
+Structure,1.47%
+Promise,70.18%
+Exhibition game,74.86%
+Trial,1.69%
+Convict,19.61%
+Priest,14.56%
+Moon,13.65%
+Night,2.81%
+Crime,2.78%
+Roof,1.69%
+Horror movie,1.69%
+Time,1.47%
+Property,1.47%
+Sibling,1.47%
+Table (furniture),1.47%
+House,1.37%
+Human,1.21%
+Chair,1.47%
+Sexual arousal,49.91%
+Room,21.35%
+Company,1.69%
+Smile,16.79%
+Ice skate,8.05%
+Nickelodeon,1.69%
+Eye,1.58%
+Face,1.45%
+Ice skate,5.38%
+Thought,3.32%
+Dollar,2.98%
+Management,1.47%
+Dove,1.24%
+Dollar,2.98%
+Running,1.69%
+Bullying,83.42%
+Felt,82.60%
+Orbital inclination,1.41%
+Tropical cyclogenesis,2.88%
+Ice skate,2.80%
+Promise,2.67%
+Hand,1.69%
+Pity,13.67%
+7 (number),5.59%
+Ice skate,2.81%
+Hockey,1.69%
+Running,1.69%
+Match,1.47%
+Week,13.08%
+Humour,74.15%
+Ice skate,5.44%
+Nickelodeon,1.69%
+Sales,1.69%
+Mind,1.47%
+Ice skate,79.80%
+Desk,80.18%
+Room,75.49%
+Door,67.83%
+Rotation,5.33%
+Reputation,80.18%
+Thought,73.89%
+Ice skate,70.18%
+Position,1.47%
+Stairs,68.40%
+Room,19.35%
+Minute,14.71%
+Table (furniture),2.81%

@@ -1,0 +1,187 @@
+Church,2.98%
+Tragedy,2.98%
+Blood,2.98%
+Gold,2.98%
+Christmas,2.98%
+Boat,2.98%
+College,2.98%
+Prophet,2.98%
+Mississippi,2.98%
+Blacksmith,2.98%
+Missouri,2.98%
+Deacon,2.98%
+Honey,2.98%
+Pig,2.98%
+Priest,2.98%
+Smile,2.98%
+Pond,2.98%
+Bark,2.98%
+Protestant Reformation,2.98%
+Dreaming (spirituality),2.98%
+Sunset,2.98%
+Dream,2.98%
+Siberian Husky,2.98%
+Anxiety,2.98%
+Wheelchair,2.98%
+Penance,2.98%
+Instinct,2.98%
+Christianity,2.98%
+Whirlpool,2.98%
+Proposition,2.98%
+Sun,2.90%
+Scranton, Pennsylvania,2.90%
+Bread,2.87%
+Nut (fruit),2.87%
+Animal,1.69%
+Country,1.69%
+Circle,1.69%
+Death,1.69%
+Fine,1.69%
+Human body,1.69%
+Skin,1.69%
+Head,1.69%
+Road,1.69%
+Energy,1.69%
+Cake,1.69%
+Man,1.69%
+Sadness,1.69%
+American Civil War,1.69%
+Court,1.69%
+Movie director,1.69%
+Fact,1.69%
+Ulysses S. Grant,1.69%
+Forest,1.69%
+Heart,1.69%
+Muscle,1.69%
+Hearing,1.69%
+Shop,1.69%
+Emotion,1.69%
+Happiness,1.69%
+Fictional character,1.69%
+Poverty,1.69%
+Lie,1.69%
+Journey (band),1.69%
+Family (biology),1.69%
+Existence,1.69%
+Running,1.69%
+Stock,1.69%
+Nobility,1.69%
+Diurnal,1.69%
+Central nervous system,1.69%
+Courthouse,1.69%
+Pound sterling,1.69%
+Meeting,1.69%
+Task,1.69%
+Strike action,1.69%
+School,1.69%
+Hit (baseball),1.69%
+Book of Joel,1.69%
+Fault (geology),1.69%
+Subject (grammar),1.69%
+Bitterness,1.69%
+Edward Winslow,1.69%
+Opinion,1.59%
+Old age,1.52%
+Wound,1.52%
+Advanced Packaging Tool,1.52%
+Depth,1.47%
+Health,1.47%
+Life,1.47%
+Nature,1.47%
+Prediction,1.47%
+Symbol,1.47%
+Sport,1.47%
+Science,1.47%
+Speed,1.47%
+Tree,1.47%
+Value,1.47%
+Word,1.47%
+War,1.47%
+Sky,1.47%
+Education,1.47%
+Miracle,1.47%
+Game,1.47%
+Time,1.47%
+Question,1.47%
+Day,1.47%
+Information,1.47%
+Ice,1.47%
+Writing,1.47%
+Transport,1.47%
+Week,1.47%
+Human,1.47%
+West,1.47%
+Face,1.47%
+Point (geometry),1.47%
+Line,1.47%
+House,1.47%
+Drawing,1.47%
+Position,1.47%
+Size,1.47%
+Heat,1.47%
+Bee,1.47%
+Father,1.47%
+World,1.47%
+Child,1.47%
+Boy,1.47%
+Wife,1.47%
+Truth,1.47%
+Mind,1.47%
+George H. W. Bush,1.47%
+Love,1.47%
+Constant,1.47%
+Saw,1.47%
+Cross,1.47%
+Cold,1.47%
+Taste,1.47%
+Talk,1.47%
+Precious metal,1.47%
+Mother,1.47%
+Straight,1.47%
+Yes (band),1.47%
+Learning,1.47%
+Connection,1.47%
+Grandparent,1.47%
+Set,1.47%
+Chair,1.47%
+Team,1.47%
+Waste container,1.47%
+Parent,1.47%
+Cosmetics,1.47%
+Eating,1.47%
+Mean,1.47%
+Caterpillar,1.47%
+Sight,1.47%
+Laugh,1.47%
+Experience,1.47%
+Speech,1.47%
+Felt,1.47%
+Equality (mathematics),1.47%
+Practice,1.47%
+Observation,1.47%
+Northwest,1.47%
+Girl,1.47%
+Management,1.47%
+Hit record,1.47%
+Evening,1.47%
+Compilation,1.47%
+Second Coming,1.47%
+Surrender (military),1.47%
+Race (sociology),1.47%
+Night,1.47%
+Validity,1.47%
+Markus Persson,1.47%
+Explanation,1.47%
+Prejudice,1.47%
+Knowledge,1.37%
+Summer,1.37%
+Washington (state),1.37%
+Cooking,1.31%
+Wheel,1.31%
+Town,1.31%
+Winter,1.31%
+Fate,1.31%
+Lesson,1.31%
+Weaving,1.31%
+Coach (sport),1.31%
+Weather,1.19%

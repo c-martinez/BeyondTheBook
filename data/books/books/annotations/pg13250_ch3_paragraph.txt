@@ -1,0 +1,268 @@
+Eye,1.69%
+Foot,1.47%
+Table (furniture),1.47%
+Law,32.22%
+Property,12.84%
+Dollar,2.98%
+Silver,2.90%
+Cent (currency),1.69%
+Ice skate,1.47%
+Money,14.75%
+Poker,11.42%
+Anger,5.45%
+Order (biology),1.69%
+Job,1.47%
+Felt,1.47%
+Human sacrifice,1.47%
+Camel,19.89%
+Theft,2.98%
+House,1.47%
+Position,1.47%
+Set,1.47%
+Therapy,1.47%
+Straw,1.41%
+Theft,11.31%
+Police,6.39%
+Sexual arousal,1.59%
+Want,1.47%
+Force,1.47%
+Office,1.47%
+Hat,1.47%
+Striker,1.47%
+Table (furniture),1.47%
+Priest,12.87%
+Silver,2.90%
+Picture,1.69%
+Spoon,1.69%
+Value,1.47%
+Mind,1.47%
+Saw,1.47%
+Possession,1.47%
+Product (business),1.47%
+Conversation,1.21%
+Display resolution,8.05%
+Ejaculation,7.78%
+Dollar,11.31%
+Coal,2.98%
+Beaver,2.98%
+Money,2.91%
+Hand,1.69%
+County seat,1.69%
+Walk,1.47%
+Cleanliness,1.47%
+Imagination,1.37%
+Neighbour,1.31%
+Law,20.33%
+Pet,2.98%
+Leg,2.98%
+Homosexuality,2.98%
+Skate,2.98%
+Trade,1.69%
+Running,1.69%
+Thought,1.69%
+Cash,1.69%
+Life,1.47%
+Time,1.47%
+Bit,1.47%
+Dove,1.47%
+Mother,1.47%
+Yes (band),1.47%
+Recognition,1.47%
+Ice skate,1.47%
+Race (sociology),1.47%
+Beat (music),1.47%
+Business,1.38%
+Winter,1.31%
+Sound,70.57%
+Wiktionary,1.69%
+Voice actor,1.63%
+Pond,56.07%
+Window,29.73%
+House,3.58%
+Arm,1.52%
+Street,1.47%
+Sight,1.47%
+Visitor,1.47%
+Lie,55.30%
+Question,16.05%
+Poverty,5.65%
+Police,5.50%
+Position,1.47%
+Sight,1.47%
+Prize,2.88%
+Police,2.23%
+Money,1.69%
+Recognition,1.47%
+Ice skate,1.47%
+Reading,75.07%
+Mind,13.38%
+Creation myth,2.51%
+Flash memory,1.69%
+Gate,1.52%
+Fear,5.65%
+Miracle,2.80%
+Minute,2.80%
+Fiction,1.69%
+Hugo (movie),1.69%
+Life,1.47%
+Value,1.47%
+Entertainment,1.47%
+Ice skate,1.47%
+Door,19.33%
+Stairs,8.05%
+Bell,2.90%
+Hearing,1.69%
+Test,1.47%
+Time,1.47%
+Waste,1.47%
+Sport,29.16%
+Health,5.38%
+Door,3.01%
+College,2.98%
+Fishing,2.98%
+Bass guitar,2.98%
+Eye,1.69%
+Photography,1.69%
+Fire,1.69%
+Heart,1.69%
+Room,1.69%
+Heel (professional wrestling),1.69%
+Transformation (genetics),1.69%
+Pound (mass),1.59%
+Second,1.47%
+Day,1.47%
+Face,1.47%
+Boy,1.47%
+Floor,1.47%
+Taxidermy,1.47%
+Offensive tackle,1.47%
+Youth,1.47%
+Iron,44.27%
+Animal,43.26%
+Sadness,27.00%
+Fear,17.84%
+Hunting,16.91%
+Colour,13.12%
+Eye,5.65%
+Face,2.13%
+Headlands and bays,1.27%
+Door,28.91%
+Police,13.78%
+Plant,1.69%
+Officer,1.69%
+Room,1.59%
+Foot,1.47%
+Time,1.47%
+Chat,1.69%
+Skunk,43.53%
+Theft,2.98%
+Nickel,2.98%
+Crying,1.69%
+Coat (dog),1.52%
+Face,1.47%
+Second Coming,1.47%
+Ice skate,1.47%
+Beat (music),1.47%
+Finger,1.41%
+Lock,1.31%
+Breathing,1.59%
+Hearing,3.32%
+Ice skate,3.11%
+Theft,2.88%
+Square,1.63%
+Fairness,1.47%
+Scranton, Pennsylvania,11.23%
+Police,5.56%
+Force,2.67%
+Head,1.69%
+Property,12.91%
+Time,5.44%
+Skate,2.98%
+Good (economics),1.69%
+Reform Judaism,1.69%
+Ice skate,1.47%
+Lock,1.31%
+Fear,71.74%
+Eye,1.69%
+Water,11.08%
+Bucket,2.98%
+Ice,2.80%
+Heart,1.69%
+Action movie,1.63%
+Job,1.47%
+Cold,1.47%
+Straight,1.47%
+Idea,1.47%
+Possession,1.47%
+Ice skate,1.47%
+Shadow,1.47%
+Hug,1.37%
+Mercy,1.37%
+Yes (band),6.66%
+Recognition,2.80%
+Ice skate,2.80%
+Officer,1.69%
+Stern,52.16%
+Officer,1.69%
+Table (furniture),1.47%
+Trade,5.59%
+Eye,2.98%
+Slate,2.98%
+Scranton, Pennsylvania,2.90%
+Hygiene,1.69%
+Heart,1.69%
+Fellow,1.69%
+Time,1.47%
+Property,1.47%
+Free software,1.47%
+Mind,1.47%
+Straight,1.47%
+Set,1.47%
+Compilation,1.47%
+Ice skate,1.47%
+Soul,2.98%
+Nobility,2.98%
+Repentance,2.98%
+Hand,1.69%
+Hearing,1.69%
+Fear,1.69%
+Officer,1.69%
+Stairs,1.69%
+Room,1.69%
+Heel (professional wrestling),1.69%
+Squeeze,1.69%
+Word,1.47%
+Machine,1.47%
+Interpreter,1.47%
+Numerical digit,1.47%
+Ice skate,1.47%
+Saint,79.80%
+Head,1.69%
+Experiment,2.98%
+Leopard,2.98%
+Reform,2.98%
+Scranton, Pennsylvania,2.90%
+Minute,1.47%
+Boy,1.47%
+Promise,70.57%
+Chat,1.69%
+Secrecy,1.69%
+Property,1.47%
+Time,13.52%
+Sleep,12.91%
+Magnet,2.98%
+Horizon,2.98%
+Night,2.81%
+Bed,2.80%
+Window,1.69%
+Thought,1.69%
+Star,1.52%
+West,1.47%
+Luminosity,1.47%
+Experiment,31.02%
+Star,13.65%
+Horizon,2.98%
+Value,1.47%
+Sleep,1.37%
+Nobility,11.18%
+Reform Judaism,1.69%

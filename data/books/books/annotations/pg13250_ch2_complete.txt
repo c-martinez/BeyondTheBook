@@ -1,0 +1,160 @@
+Prison,9.74%
+Theft,3.00%
+Sport,2.98%
+Mercury (element),2.98%
+United States dollar,2.98%
+Citizenship,2.98%
+Dog,2.98%
+Thermometer,2.98%
+Grain,2.98%
+Steel,2.98%
+High school,2.98%
+Victor Hugo,2.98%
+Walt Disney Pictures,2.98%
+Egg (biology),2.98%
+Priest,2.98%
+Pond,2.98%
+Humour,2.98%
+Blouse,2.98%
+Skate,2.98%
+Fashion,2.98%
+Cough,2.98%
+Convict,2.98%
+Decency,2.98%
+Bullying,2.98%
+Reform,2.98%
+Revelation,2.98%
+Bread,2.90%
+Silver,2.90%
+Scranton, Pennsylvania,2.90%
+Police,2.79%
+Animal,1.69%
+Crime,1.69%
+Ethics,1.69%
+Fine,1.69%
+Trade,1.69%
+Head,1.69%
+Eye,1.69%
+Man,1.69%
+Friends,1.69%
+Court,1.69%
+Fact,1.69%
+Painting,1.69%
+Hand,1.69%
+Roof,1.69%
+Heart,1.69%
+Hearing,1.69%
+Go,1.69%
+Hockey,1.69%
+Spoon,1.69%
+Door,1.69%
+Emotion,1.69%
+Happiness,1.69%
+Madness,1.69%
+Universal suffrage,1.69%
+Running,1.69%
+Concept,1.69%
+Speculation,1.69%
+Fellow,1.69%
+Matter,1.69%
+Stairs,1.69%
+Single (music),1.69%
+Thought,1.69%
+Horror movie,1.69%
+Honour,1.69%
+Tropical cyclogenesis,1.69%
+Degree (angle),1.69%
+7 (number),1.69%
+Pity,1.69%
+Penance,1.69%
+Room,1.69%
+Moon,1.69%
+Reason,1.69%
+Task,1.69%
+Company,1.69%
+Exhibition game,1.69%
+School,1.69%
+Sue (dinosaur),1.69%
+Subject (grammar),1.69%
+Hugo (movie),1.69%
+Saturday,1.63%
+Scheme (programming language),1.63%
+Foundation,1.63%
+Book,1.59%
+Smile,1.59%
+Sexual arousal,1.59%
+Arm,1.52%
+Hello,1.50%
+Foot,1.47%
+History,1.47%
+Life,1.47%
+Prediction,1.47%
+Reading,1.47%
+Word,1.47%
+Game,1.47%
+Time,1.47%
+Force,1.47%
+Minute,1.47%
+Day,1.47%
+Ice,1.47%
+Imagination,1.47%
+Week,1.47%
+Promise,1.47%
+Face,1.47%
+House,1.47%
+Creating,1.47%
+Position,1.47%
+Father,1.47%
+Season,1.47%
+Knife,1.47%
+Boy,1.47%
+Truth,1.47%
+Mind,1.47%
+Bit,1.47%
+Saw,1.47%
+Dove,1.47%
+Past,1.47%
+Mother,1.47%
+Straight,1.47%
+Yes (band),1.47%
+Idea,1.47%
+Connection,1.47%
+Adultery,1.47%
+Literacy,1.47%
+Set,1.47%
+Structure,1.47%
+Chair,1.47%
+Accompaniment (music),1.47%
+Laugh,1.47%
+Morning,1.47%
+Speech,1.47%
+Walk,1.47%
+Felt,1.47%
+Sibling,1.47%
+Reputation,1.47%
+Desk,1.47%
+Visitor,1.47%
+Management,1.47%
+Mathematical proof,1.47%
+Match,1.47%
+Evening,1.47%
+Doubt,1.47%
+Striker,1.47%
+Brush Traction,1.47%
+Sheet,1.47%
+Ice skate,1.47%
+Fatigue,1.47%
+Night,1.47%
+Table (furniture),1.47%
+Expedition,1.47%
+Sink,1.47%
+Human,1.41%
+Orbital inclination,1.41%
+Romance (love),1.41%
+Cosmetics,1.37%
+Justice,1.37%
+Society,1.31%
+Town,1.31%
+Machine,1.31%
+Weather,1.19%
+Law,1.16%

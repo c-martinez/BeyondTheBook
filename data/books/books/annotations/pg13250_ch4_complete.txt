@@ -1,0 +1,159 @@
+Seed,2.98%
+Grain,2.98%
+Baseball,2.98%
+College,2.98%
+Soil,2.98%
+Intermission,2.98%
+Walt Disney Pictures,2.98%
+Root,2.98%
+Pond,2.98%
+Critic,2.98%
+Rubber,2.98%
+Referee,2.98%
+Skate,2.98%
+Violence,2.98%
+Handshake,2.98%
+Umpire,2.98%
+Dandy,2.98%
+Frank Marshall (movie producer),2.98%
+Bully (video game),2.98%
+Villain,2.98%
+Sport,2.90%
+Eye,2.90%
+Silver,2.90%
+Ice hockey,2.90%
+Scranton, Pennsylvania,2.90%
+Fashion,2.87%
+Nature,2.80%
+Chat,1.69%
+Fine,1.69%
+Gold,1.69%
+Gun,1.69%
+Head,1.69%
+Leader,1.69%
+Track and field athletics,1.69%
+Energy,1.69%
+Man,1.69%
+Marshall Islands,1.69%
+Play (theatre),1.69%
+Friends,1.69%
+High school,1.69%
+Hand,1.69%
+Heart,1.69%
+Hearing,1.69%
+Freezing,1.69%
+Plectrum,1.69%
+Hockey stick,1.69%
+Smile,1.69%
+Happiness,1.69%
+Anger,1.69%
+Movie criticism,1.69%
+Ownership,1.69%
+Investment,1.69%
+Fellow,1.69%
+Matter,1.69%
+Video game developer,1.69%
+Gift,1.69%
+7 (number),1.69%
+Goal (ice hockey),1.69%
+Credit,1.69%
+Task,1.69%
+Instruction (computer science),1.69%
+Rival,1.69%
+Centre (ice hockey),1.69%
+Fault (geology),1.69%
+Lawrence, Kansas,1.69%
+Extremism,1.69%
+General officer,1.69%
+Substitute good,1.69%
+Error (baseball),1.69%
+Light,1.63%
+Security,1.63%
+Crisis,1.63%
+Action movie,1.63%
+Solid,1.59%
+Fence,1.59%
+Pity,1.59%
+Star,1.52%
+Punishment,1.52%
+Captain,1.52%
+Business,1.48%
+Wing,1.48%
+Hockey puck,1.48%
+Air,1.47%
+Addition,1.47%
+Dimension,1.47%
+Depth,1.47%
+Number,1.47%
+Fishing net,1.47%
+Sound,1.47%
+Suggestion,1.47%
+Science,1.47%
+Value,1.47%
+Word,1.47%
+Defense,1.47%
+Game,1.47%
+Time,1.47%
+Minute,1.47%
+Terrorism,1.47%
+Ice,1.47%
+Agreement,1.47%
+Line,1.47%
+Position,1.47%
+Heat,1.47%
+Building,1.47%
+Student,1.47%
+Boy,1.47%
+Mind,1.47%
+Saw,1.47%
+Rule,1.47%
+Talk,1.47%
+Clock,1.47%
+Mother,1.47%
+Straight,1.47%
+List,1.47%
+Teacher,1.47%
+Literacy,1.47%
+Birthday,1.47%
+Team,1.47%
+Flight,1.47%
+Warm,1.47%
+Measurement,1.47%
+Recognition,1.47%
+Competition,1.47%
+Intelligence,1.47%
+Choice,1.47%
+Morning,1.47%
+Wisdom,1.47%
+Ice skating,1.47%
+Rink,1.47%
+Combat,1.47%
+Possession,1.47%
+Angles,1.47%
+Moment (physics),1.47%
+Felt,1.47%
+Persuasion,1.47%
+Practice,1.47%
+Military tactics,1.47%
+Legitimacy,1.47%
+Mathematical proof,1.47%
+Match,1.47%
+Striker,1.47%
+List of NHL players,1.47%
+Ice skate,1.47%
+Gentry,1.47%
+Judgment,1.47%
+Night,1.47%
+Sharp (music),1.47%
+Period (geology),1.47%
+Shooting,1.47%
+Coach (sport),1.41%
+Summer,1.37%
+Cosmetics,1.37%
+Swift,1.37%
+Water,1.31%
+Accident,1.31%
+Town,1.31%
+Fate,1.31%
+Applause,1.31%
+Miracle,1.19%

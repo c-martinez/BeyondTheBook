@@ -1,0 +1,292 @@
+Domestication,81.63%
+Pet,66.04%
+Labour (economics),1.69%
+Connection,1.47%
+Scranton, Pennsylvania,2.90%
+Light,2.64%
+Leaf,1.69%
+Emotion,1.69%
+Fellow,1.69%
+War in Afghanistan (2001–present),1.52%
+Boy,1.47%
+Mind,1.47%
+Past,1.47%
+Therapy,1.47%
+Evil,1.31%
+Shame,3.83%
+Life,3.11%
+Prediction,2.80%
+Play (activity),1.69%
+Square,1.63%
+Average,1.47%
+Fairness,1.47%
+Gutter (philately),33.33%
+Fine,1.69%
+Man,1.69%
+Flash memory,1.69%
+Day,1.47%
+Face,1.47%
+Position,1.47%
+Speech,1.47%
+Jötnar,1.47%
+Mathematical proof,1.47%
+Human nature,34.53%
+Human,19.49%
+Revelation,18.77%
+Priest,14.56%
+Nature,12.91%
+Thought,3.32%
+Lie,1.69%
+Order (biology),1.69%
+Hugo (movie),1.69%
+Saw,1.47%
+Job,1.47%
+Fine,1.69%
+Emotion,1.69%
+Position,1.47%
+Walk,1.47%
+Winter,1.31%
+Physical exercise,34.02%
+Scheme (programming language),6.07%
+Mind,1.47%
+Edward Winslow,19.97%
+Road,16.05%
+Mile,7.11%
+Deacon,5.65%
+House,3.71%
+Cross,1.47%
+Walk,1.47%
+Deacon,38.06%
+Interview,2.85%
+Strike (attack),1.69%
+Wind,1.48%
+Reason,1.69%
+Question,1.47%
+Point (geometry),1.47%
+Bit,1.47%
+Average,1.47%
+Transparency,1.47%
+Motivation,1.47%
+Prediction,34.93%
+Night,13.08%
+Skate,34.20%
+Candy,2.98%
+Saw,2.80%
+Raid,2.80%
+Head,1.69%
+Shop,1.69%
+Cigarette,1.59%
+Past,1.47%
+Go,73.89%
+Friendship,57.28%
+Innocence,16.22%
+Wisdom,5.83%
+Intelligence,5.44%
+Time,5.38%
+Positive number,1.69%
+Betrayal,1.69%
+Company,1.69%
+Arrangement (music),1.47%
+Church,53.25%
+Deacon,21.31%
+Hour,5.30%
+Road,3.01%
+Corporation,2.98%
+Scranton, Pennsylvania,2.90%
+Time,1.47%
+Limit (mathematics),1.47%
+House,1.35%
+Town,1.31%
+Business,31.57%
+Car,17.53%
+Police,16.56%
+Road,13.12%
+Dignity,2.98%
+Scranton, Pennsylvania,2.90%
+Force,1.47%
+Town,1.47%
+Prisoner,1.31%
+Gun,1.69%
+Past,1.47%
+Business,21.02%
+Happiness,3.01%
+Deacon,2.98%
+Police,2.87%
+Head,1.69%
+Prediction,1.47%
+Word,1.47%
+Bone,70.33%
+Scranton, Pennsylvania,40.15%
+Play (theatre),1.69%
+Opinion,1.59%
+Official,1.47%
+Church,55.03%
+Blacksmith,20.45%
+Deacon,3.02%
+Edward Winslow,1.90%
+Man,1.69%
+Muscle,1.69%
+Shop,1.52%
+Time,1.47%
+Advertising,53.19%
+Goodness,14.08%
+Poverty,3.91%
+Horn (musical instrument),2.98%
+Scranton, Pennsylvania,2.90%
+Man,1.69%
+Law,1.47%
+Soap,1.31%
+Anvil,51.99%
+Hammer,35.00%
+Smith (metalwork),13.38%
+Siberian Husky,2.98%
+Vocation,2.98%
+Scranton, Pennsylvania,2.90%
+Fine,1.69%
+Man,1.69%
+Muscle,1.69%
+Deacon,1.69%
+Edward Winslow,1.69%
+Like,1.47%
+Boy,1.47%
+Deacon,87.78%
+Fellow,18.26%
+Soul,2.98%
+Human,1.47%
+Boy,1.47%
+Saw,1.47%
+Surface,1.47%
+Orbital inclination,1.41%
+Deacon,2.98%
+Prophecy,2.98%
+Joke,2.87%
+Man,1.69%
+Play (theatre),1.69%
+Pity,1.69%
+Edward Winslow,1.69%
+Shop,1.52%
+Time,1.47%
+George H. W. Bush,1.47%
+Job,1.47%
+Odd number,1.47%
+Fatigue,1.47%
+Church,56.62%
+Deacon,13.66%
+Door,12.16%
+Hour,7.91%
+Hand,1.69%
+Deacon,5.65%
+Priest,2.87%
+Play (theatre),1.69%
+Matter,1.69%
+Edward Winslow,1.69%
+Reading,1.47%
+Time,1.47%
+Waste,1.47%
+Fate,1.31%
+Edward Winslow,75.18%
+Deacon,69.52%
+Judge,3.43%
+Head,1.69%
+Hand,1.69%
+Law,1.47%
+Morning,8.05%
+Scranton, Pennsylvania,2.90%
+Narrator,1.69%
+Sunday,1.53%
+Ice,1.47%
+Priest,78.22%
+Wisdom,5.03%
+Profession,2.98%
+Belief,2.70%
+Head,1.69%
+Eye,1.69%
+Man,1.69%
+Deacon,1.69%
+Thought,1.69%
+Edward Winslow,1.69%
+Rare,1.69%
+Business,1.48%
+Innocence,1.48%
+George H. W. Bush,1.47%
+Boy,1.37%
+Human,19.49%
+Nature,12.91%
+Thought,5.59%
+Man,3.01%
+Emotion,3.01%
+Crime,2.98%
+Human nature,2.98%
+Book,2.91%
+Life,2.80%
+Chemical element,1.69%
+Bomb,1.69%
+Innocence,1.69%
+Arm,1.52%
+Second,1.47%
+Boy,1.47%
+Truth,1.47%
+George H. W. Bush,1.47%
+Speech,1.47%
+Hit record,1.47%
+The Labors of Herakles,1.31%
+Deacon,38.06%
+Heat,1.47%
+Felt,1.47%
+Horse,29.06%
+Learning,26.14%
+Diurnal,1.69%
+Coming out,1.69%
+Saturday,1.63%
+Mind,1.47%
+Job,1.47%
+Engagement,1.47%
+Night,1.37%
+Hearing,5.65%
+Lip,5.03%
+Deacon,3.30%
+Man,3.01%
+George H. W. Bush,1.47%
+Reason,1.69%
+Up (2009 movie),1.69%
+Coming out,1.69%
+Saturday,1.63%
+Shoulder,1.52%
+Rule,1.47%
+Ice skate,1.47%
+Monday,1.47%
+Night,1.37%
+Intelligence,79.80%
+Blacksmith,12.95%
+Fact,1.69%
+Hand,1.69%
+7 (number),1.69%
+Unfree labour,1.69%
+Hour,1.47%
+House,1.47%
+Electric charge,10.18%
+Hour,4.94%
+Clock,45.33%
+Time,3.95%
+Robbery,2.98%
+Shop,2.85%
+Mind,2.80%
+Morning,2.80%
+Idea,2.13%
+Electric charge,1.69%
+Honour,1.69%
+Stroke,1.69%
+Strike action,1.69%
+Sunday,1.53%
+Silent movie,1.47%
+Town,1.31%
+Blacksmith,2.98%
+Deacon,1.69%
+Edward Winslow,1.69%
+Interview,1.52%
+Drawing,1.47%
+Felt,1.47%
+Mathematical proof,1.47%
+Experiment,78.89%
+Road,12.84%
+Town,1.31%

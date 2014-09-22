@@ -1,0 +1,262 @@
+News,70.57%
+Sunday,1.42%
+Scranton, Pennsylvania,72.34%
+Belgium,2.98%
+Friendship,78.15%
+Plain,74.85%
+Eye,1.69%
+Running,1.69%
+Face,1.47%
+Church,79.97%
+House,19.95%
+Bell,13.08%
+Morning,5.44%
+Mass (liturgy),1.52%
+Past,1.47%
+Human,1.37%
+Sunday,1.53%
+Street,1.47%
+Winter,1.31%
+Bell,2.90%
+Prediction,27.37%
+Dozen,14.94%
+Burglary,87.75%
+Sport,5.44%
+Candy,2.98%
+Cigarette,1.59%
+Good (economics),1.59%
+Position,1.47%
+Scranton, Pennsylvania,53.78%
+Sport,8.05%
+Man,1.69%
+Paul the Apostle,1.69%
+Good (economics),1.59%
+Talk,1.47%
+Prediction,77.84%
+Paul the Apostle,1.69%
+Product (business),1.47%
+Job,81.63%
+Door,67.83%
+Robbery,67.37%
+Sport,5.44%
+Candy,2.98%
+Man,1.69%
+Cigarette,1.59%
+Good (economics),1.59%
+Job,1.47%
+Doctor Who companions,1.47%
+Position,1.47%
+Finger,32.23%
+Guilt (law),1.31%
+Mind,1.47%
+Cloud,2.98%
+Face,1.47%
+Fellow,3.01%
+Single (music),2.88%
+Reputation,2.67%
+Town,1.31%
+Time,51.09%
+Death,44.51%
+Leader,3.01%
+Ring,1.69%
+Good (economics),1.59%
+Past,1.47%
+Hearing,1.72%
+Error,1.68%
+Town square,10.60%
+Disease,1.69%
+Saw,1.47%
+Mother,1.47%
+Morning,1.47%
+Washing,1.47%
+Job,71.81%
+Theft,72.36%
+Position,1.37%
+Boy,13.52%
+Question,5.44%
+Intermission,2.98%
+Entertainment,2.81%
+Ice,2.67%
+Hockey,1.69%
+Match,1.47%
+House,0.68%
+Duck,90.70%
+Fault (geology),13.59%
+Raid,3.67%
+Boy,2.81%
+Prediction,2.80%
+Hide,1.69%
+Barn,22.04%
+Walt Disney Pictures,2.98%
+Candy,2.98%
+Wholesale,2.98%
+Floor,2.10%
+Hockey,1.69%
+Cigarette,1.59%
+Choice,1.47%
+Ice skate,1.47%
+Theft,31.50%
+Division (mathematics),1.47%
+Lawyer,71.53%
+Boy,5.44%
+Matter,3.01%
+Detective,2.87%
+Smile,67.83%
+Innocence,32.21%
+Night,10.70%
+Game,1.47%
+Enemy,1.47%
+Set,1.47%
+Mean,1.47%
+Noise,1.31%
+Scranton, Pennsylvania,2.79%
+Paul the Apostle,1.69%
+7 (number),1.69%
+Packet (computing),1.69%
+Cigarette,1.59%
+Coat (dog),1.52%
+Pocket,1.37%
+WWE Brand Extension,1.31%
+Time,73.04%
+Judaism,1.69%
+Free software,1.47%
+Scranton, Pennsylvania,15.71%
+Waste,7.91%
+Good (economics),1.69%
+Human,1.47%
+Pity,76.69%
+Woman,71.74%
+Boy,13.66%
+Mother,1.47%
+Theft,72.36%
+Prediction,66.82%
+Doubt,1.47%
+World,1.37%
+Arrest,2.98%
+Saw,13.52%
+Cold,11.47%
+Saw,75.07%
+Face,1.47%
+Scrap,66.89%
+Search engine,26.14%
+Good (economics),1.59%
+Conviction,71.74%
+Arrest,68.28%
+General officer,1.69%
+Property,1.47%
+Yes (band),74.85%
+Robbery,57.26%
+Theft,47.03%
+Clock,4.46%
+Shop,1.69%
+Night,1.47%
+Point (geometry),1.47%
+Intelligence,21.04%
+Yes (band),6.82%
+Settler,1.47%
+Word,44.98%
+Sound,37.31%
+Window,23.22%
+Mother,2.80%
+Sleep,2.80%
+House,1.43%
+Blacksmith,20.45%
+Scranton, Pennsylvania,2.79%
+Road,1.69%
+Man,1.69%
+Deacon,1.69%
+Book of Joel,1.69%
+Edward Winslow,1.58%
+Shop,1.52%
+Weather,10.22%
+Prophet,2.98%
+Blacksmith,2.98%
+Officer,1.69%
+7 (number),1.69%
+Yes (band),1.47%
+Headquarters,1.47%
+Night,1.47%
+Laugh,70.18%
+Chest,6.79%
+Fear,81.82%
+Experiment,80.05%
+Waterloo station,1.31%
+Hearing,67.83%
+Plain,43.57%
+Liberty,41.61%
+Set,1.47%
+Police,1.47%
+Evidence,26.92%
+Reputation,12.91%
+Robbery,11.31%
+Walt Disney Pictures,2.98%
+Particle,2.98%
+Time,1.47%
+Stress (biology),1.47%
+Lawsuit,1.21%
+Free software,1.47%
+Deacon,5.65%
+Police,2.98%
+Edward Winslow,2.31%
+Head,1.69%
+Cover version,1.47%
+Arrest,6.33%
+Joke,79.92%
+Past,1.47%
+Fellow,73.89%
+Force,80.18%
+Degree (school),1.37%
+Mean,1.47%
+City,33.11%
+Fear,10.70%
+New York,2.98%
+York,1.47%
+Prisoner,1.31%
+Intelligence,38.85%
+House,13.58%
+Time,8.05%
+Police,2.55%
+Head,1.69%
+Military tactics,1.47%
+Robbery,80.96%
+Gang,72.36%
+Crime,19.09%
+Reason,1.69%
+Undercover,2.98%
+Window,1.69%
+Man,1.69%
+Fellow,1.69%
+Interview,1.52%
+Plain,1.52%
+Past,1.47%
+Mobster,1.47%
+Clothing,1.31%
+Shock,31.39%
+Fellow,10.70%
+Order (biology),1.69%
+Prisoner,1.31%
+Edward Winslow,20.96%
+Deacon,13.58%
+Interview,1.52%
+Saw,1.47%
+Blacksmith,80.97%
+Robbery,48.94%
+Time,5.44%
+Town,1.31%
+Hand,1.69%
+Mind,1.47%
+Deacon,87.78%
+Crime,2.98%
+Transparency,1.47%
+Edward Winslow,74.85%
+Deacon,73.89%
+Man,1.69%
+Time,73.04%
+Orbital inclination,1.41%
+Blacksmith,80.97%
+Matter,13.12%
+Electric charge,1.69%
+Learning,1.47%
+Homosexuality,84.78%
+Mental confusion,5.44%
+Head,1.69%

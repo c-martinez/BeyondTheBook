@@ -1,0 +1,281 @@
+Eye,1.69%
+Foot,1.47%
+Table (furniture),1.47%
+Cent (currency),34.33%
+Ice skate,20.18%
+Dollar,3.43%
+Silver,2.90%
+Law,78.79%
+Property,70.57%
+Sales,1.69%
+Poker,18.25%
+Felt,8.05%
+Money,56.14%
+Anger,43.84%
+Job,2.80%
+Order (biology),1.69%
+Human sacrifice,1.47%
+Set,1.47%
+Camel,80.97%
+Straw,19.70%
+House,1.47%
+Position,1.47%
+Theft,41.50%
+Therapy,16.05%
+Theft,11.31%
+Police,6.39%
+Sexual arousal,1.59%
+Want,1.47%
+Force,1.47%
+Office,1.47%
+Hat,1.47%
+Striker,1.47%
+Table (furniture),1.47%
+Conversation,74.02%
+Mind,1.43%
+Priest,16.44%
+Possession,12.67%
+Silver,2.90%
+Picture,1.69%
+Spoon,1.69%
+Value,1.47%
+Property,1.47%
+Saw,1.47%
+Display resolution,8.05%
+Ejaculation,7.78%
+Money,71.74%
+Hand,3.42%
+County seat,1.69%
+Beaver,6.21%
+Coal,2.98%
+Walk,1.47%
+Cleanliness,1.47%
+Imagination,1.37%
+Neighbour,1.31%
+Dollar,2.98%
+Pet,81.26%
+Dove,78.17%
+Life,2.80%
+Ice skate,2.80%
+Yes (band),1.43%
+Thought,10.70%
+Trade,10.15%
+Law,44.60%
+Business,30.55%
+Homosexuality,6.44%
+Recognition,3.11%
+Cash,1.69%
+Ice skate,1.47%
+Beat (music),70.18%
+Leg,2.98%
+Skate,2.98%
+Running,1.69%
+Time,1.47%
+Bit,1.47%
+Mother,1.47%
+Ice skate,1.47%
+Race (sociology),1.47%
+Winter,1.31%
+Sound,78.18%
+Voice actor,1.63%
+Official,1.47%
+Window,67.83%
+House,1.47%
+Street,1.47%
+House,1.47%
+Sight,1.47%
+Pond,88.14%
+Visitor,17.23%
+Arm,6.79%
+Lie,55.30%
+Question,16.05%
+Poverty,5.65%
+Police,5.50%
+Position,1.47%
+Sight,1.47%
+Prize,2.88%
+Police,2.23%
+Money,1.69%
+Recognition,1.47%
+Ice skate,1.47%
+Gate,1.52%
+Reading,65.07%
+Creation myth,2.51%
+Flash memory,1.69%
+Mind,1.43%
+Hugo (movie),1.69%
+Life,25.51%
+Miracle,11.27%
+Entertainment,2.80%
+Fiction,1.69%
+Value,1.47%
+Reality,1.47%
+Ice skate,10.70%
+Minute,4.94%
+Nickelodeon,1.69%
+Fear,73.89%
+Door,30.48%
+Stairs,21.97%
+Bell,2.90%
+Time,1.47%
+Waste,1.47%
+Hearing,67.83%
+Test,1.47%
+Door,63.76%
+Combustion,27.29%
+Eye,4.22%
+Face,1.47%
+Sport,29.06%
+Health,5.38%
+College,2.98%
+Fishing,2.98%
+Bass guitar,2.98%
+Photography,1.69%
+Heart,1.69%
+Room,1.69%
+Heel (professional wrestling),1.69%
+Transformation (genetics),1.69%
+Pound (mass),1.59%
+Second,1.47%
+Day,1.47%
+Boy,1.47%
+Toy,1.47%
+Floor,1.47%
+Offensive tackle,1.47%
+Youth,1.47%
+Sadness,71.74%
+Animal,71.08%
+Iron,67.15%
+Colour,24.87%
+Fear,13.59%
+Hunting,11.56%
+Eye,3.02%
+Face,1.37%
+Headlands and bays,1.27%
+Door,28.91%
+Police,13.78%
+Plant,1.69%
+Officer,1.69%
+Room,1.59%
+Foot,1.47%
+Time,1.47%
+Chat,1.69%
+Skunk,88.95%
+Beat (music),1.47%
+Finger,56.83%
+Theft,50.04%
+Crying,10.67%
+Lock,1.21%
+Ice skate,75.07%
+Nickel,2.98%
+Coat (dog),1.52%
+Theft,41.18%
+Second Coming,5.44%
+Face,1.47%
+Theft,23.46%
+Ice skate,10.18%
+Nickelodeon,1.69%
+Square,1.63%
+Breathing,1.59%
+Fairness,1.47%
+Hearing,67.83%
+Scranton, Pennsylvania,11.23%
+Police,5.56%
+Force,2.67%
+Head,1.69%
+Ice skate,79.80%
+Property,80.18%
+Skate,81.79%
+Lock,1.31%
+Time,73.04%
+Judaism,1.69%
+Fear,71.74%
+Eye,1.69%
+Job,40.99%
+Idea,23.04%
+Straight,1.47%
+Ice skate,1.47%
+Heart,1.69%
+Action movie,1.63%
+Possession,1.47%
+Ice skate,1.47%
+Hug,1.37%
+Mercy,1.37%
+Shadow,1.47%
+Water,80.18%
+Ice,28.04%
+Bucket,3.54%
+Cold,1.37%
+Yes (band),6.66%
+Recognition,2.80%
+Ice skate,2.80%
+Officer,1.69%
+Stern,52.16%
+Officer,1.69%
+Table (furniture),1.47%
+Property,82.98%
+Eye,2.98%
+Trade,68.40%
+Mind,1.47%
+Ice skate,79.80%
+Nickelodeon,1.28%
+Free software,1.47%
+Set,1.47%
+Scranton, Pennsylvania,2.90%
+Slate,2.87%
+Hygiene,1.69%
+Fellow,1.69%
+Time,1.47%
+Straight,1.47%
+Set,1.47%
+Compilation,10.18%
+Heart,1.69%
+Ice skate,5.08%
+Nickelodeon,1.69%
+Numerical digit,27.37%
+Machine,17.37%
+Hand,1.69%
+Squeeze,1.69%
+Nobility,68.36%
+Soul,2.98%
+Room,1.69%
+Interpreter,1.47%
+Ice skate,1.47%
+Word,1.38%
+Repentance,2.87%
+Hearing,1.69%
+Fear,1.69%
+Officer,1.69%
+Stairs,1.69%
+Heel (professional wrestling),1.69%
+Saint,79.80%
+Experiment,2.98%
+Leopard,2.98%
+Reform,2.98%
+Scranton, Pennsylvania,2.90%
+Head,1.69%
+Minute,1.47%
+Boy,1.47%
+Promise,80.18%
+Chat,1.69%
+Secrecy,1.69%
+Time,79.33%
+Night,26.14%
+Bed,5.47%
+Horizon,5.56%
+Window,3.01%
+West,2.80%
+Sleep,2.70%
+Star,1.52%
+Luminosity,1.47%
+Magnet,49.87%
+Thought,1.69%
+Experiment,81.26%
+Value,77.88%
+Nickelodeon,1.69%
+Fiction,1.69%
+Horizon,51.80%
+Star,28.26%
+Sleep,1.37%
+Nobility,11.18%
+Reform Judaism,1.69%
