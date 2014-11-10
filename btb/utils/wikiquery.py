@@ -70,6 +70,7 @@ def getContributionsForPage(wiki, pageTitle):
     users = []
 
     somePage = wiki.Pages[pageTitle]
+    somePage = somePage.resolve_redirect()
     revs = somePage.revisions(prop='user', limit=500)
     for rev in revs:
         nRevs += 1
@@ -93,11 +94,19 @@ def getAllBots(wiki):
     Returns:
     bots         A set of all known bots.
     '''
-    wikiBots = wiki.allusers(group='bot')
-    bots = set()
-    for bot in wikiBots:
-        bots.add(bot['name'])
-    return bots
+    wikiId = wiki.site['wikiid']
+    botsFile = wikiId + '_bots.pkl'
+    try:
+        import pickle
+        bots = pickle.load(open(botsFile, 'r'))
+        return bots
+    except:
+        wikiBots = wiki.allusers(group='bot')
+        bots = set()
+        for bot in wikiBots:
+            bots.add(bot['name'])
+        bots = pickle.dump(bots, open(botsFile, 'w'))
+        return bots
 
 if __name__ == '__main__':
     pass
