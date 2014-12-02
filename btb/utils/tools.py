@@ -170,25 +170,46 @@ def relativeInterest(gEdit,pEdit):
     '''
     return (pEdit/gEdit-1) if pEdit<gEdit else (1-gEdit/pEdit)
 
-def getDebugWiki(host='en.wikipedia.org'):
+def getDebugWiki(host='en.wikipedia.org', debugLevel='verbose'):
     '''
     If you want to trace the requests made by mwclient, use this method
     to create your site
     
-    wiki = getDebugWiki(host='en.wikipedia.org')
+    wiki = getDebugWiki(host='en.wikipedia.org', debugLevel='verbose')
     page = wiki.pages['Ice hockey']
+    
+    Set debugLevel to 'warning' to produce only warnings returned by the API.
+    (But not the URL called).
     '''
     import mwclient
-    import http
+    import requests
     
-    class VerboseHTTPPool(http.HTTPPool):
-        def post(self, host, path, headers=None, data=None):
-            print 'Using MyPool'
-            print ' > Host: ',host
-            print ' > Path: ',path
-            print ' > Head: ',headers
-            print ' > Data: ',data
-            return super(VerboseHTTPPool, self).post(host, path, headers, data)
+    class VerboseHTTPPool(requests.Session):
+        def __init__(self, debugLevel):
+            super(VerboseHTTPPool, self).__init__()
+            self.debugLevel = debugLevel
+        
+        def post(self, url, data=None, **kwargs):
+            if self.debugLevel == 'verbose':
+                print 'Using MyPool'
+                print ' > URL : ',url
+                print ' > Data: ',data
+                print ' > FullURL: ',
+                postURL = url + '?'
+                for item in data:
+                    postURL += item + '=' + str(data[item]) + '&'
+                print postURL
+            
+            resp = super(VerboseHTTPPool, self).post(url, data, **kwargs)
+            
+            if self.debugLevel == 'warning' or self.debugLevel == 'verbose':
+                try:
+                    jsonResp = resp.json()
+                    if 'warnings' in jsonResp:
+                        print 'WARNING: ',jsonResp['warnings']
+                except:
+                    pass
+            return resp
 
-    wiki = mwclient.Site(host=host, pool=VerboseHTTPPool())
+    wiki = mwclient.Site(host=host, pool=VerboseHTTPPool(debugLevel=debugLevel))
     return wiki

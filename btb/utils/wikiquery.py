@@ -71,6 +71,10 @@ def getContributionsForPage(wiki, pageTitle):
 
     somePage = wiki.Pages[pageTitle]
     somePage = somePage.resolve_redirect()
+    
+    if not somePage.exists:
+        return [], [], 0
+    
     revs = somePage.revisions(prop='user', limit=500)
     for rev in revs:
         nRevs += 1
