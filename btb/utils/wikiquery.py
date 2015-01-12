@@ -112,5 +112,49 @@ def getAllBots(wiki):
         bots = pickle.dump(bots, open(botsFile, 'w'))
         return bots
 
+def countExternalLinks(wikiPage):
+    '''
+    Count number of links to external pages (outside wikipedia)
+    
+    wikiPage:   mwclient.page object
+    '''
+    links = wikiPage.extlinks()
+    return sum(1 for link in links)
+
+def countLinksToPage(wikiPage):
+    '''
+    Count number of pages that link to the given wiki page.
+    
+    wikiPage:   mwclient.page object
+    '''
+    links = wikiPage.backlinks(filterredir='nonredirects', namespace=0)
+    return sum(1 for link in links)
+
+def countLinksFromPage(wikiPage):
+    '''
+    Count number of pages that are linked from the given wiki page.
+    wikiPage:   mwclient.page object
+    '''
+    links = wikiPage.links(namespace=0)
+    return sum(1 for link in links)
+
+def countLanguageLinks(wikiPage):
+    '''
+    Count the number of links to equivalent page in other languages
+    
+    wikiPage:   mwclient.page object
+    '''
+    links = wikiPage.langlinks()
+    return sum(1 for link in links)
+
+def countRevisions(wikiPage):
+    '''
+    Count the number of revisions for the given wiki page.
+    
+    wikiPage:   mwclient.page object
+    '''
+    revs = wikiPage.revisions()
+    return sum(1 for rev in revs)
+
 if __name__ == '__main__':
     pass
