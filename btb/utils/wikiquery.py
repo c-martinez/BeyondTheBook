@@ -8,38 +8,58 @@ Created on Aug 5, 2014
 Percentage of contribution from each country to the total number of edits in english Wikipedia.
 Taken from http://stats.wikimedia.org/wikimedia/squids/SquidReportPageEditsPerLanguageBreakdown.htm
 '''
-__totalEdits__ = {}
-__totalEdits__['US'] = 0.383
-__totalEdits__['UK'] = 0.132
-__totalEdits__['IN'] = 0.069
-__totalEdits__['CA'] = 0.054
-__totalEdits__['AU'] = 0.036
-__totalEdits__['PH'] = 0.026
-__totalEdits__['DE'] = 0.015
-__totalEdits__['BR'] = 0.011
-__totalEdits__['IT'] = 0.01
-__totalEdits__['IE'] = 0.01
-__totalEdits__['PK'] = 0.009
-__totalEdits__['FR'] = 0.008
-__totalEdits__['MY'] = 0.008
-__totalEdits__['NL'] = 0.008
-__totalEdits__['ID'] = 0.008
-__totalEdits__['CN'] = 0.007
-__totalEdits__['NZ'] = 0.007
-__totalEdits__['ES'] = 0.007
-__totalEdits__['IR'] = 0.007
-__totalEdits__['MX'] = 0.005
-__totalEdits__['SE'] = 0.005
-__totalEdits__['RU'] = 0.005
-__totalEdits__['GR'] = 0.005
-__totalEdits__['TR'] = 0.005
+__totalEdits__ = {
+    'en': {
+        'US':  0.383,
+        'UK':  0.132,
+        'IN':  0.069,
+        'CA':  0.054,
+        'AU':  0.036,
+        'PH':  0.026,
+        'DE':  0.015,
+        'BR':  0.011,
+        'IT':  0.01,
+        'IE':  0.01,
+        'PK':  0.009,
+        'FR':  0.008,
+        'MY':  0.008,
+        'NL':  0.008,
+        'ID':  0.008,
+        'CN':  0.007,
+        'NZ':  0.007,
+        'ES':  0.007,
+        'IR':  0.007,
+        'MX':  0.005,
+        'SE':  0.005,
+        'RU':  0.005,
+        'GR':  0.005,
+        'TR':  0.005
+    },
+    'nl': {
+        'NL':	0.665,
+        'BE':	0.151
+    },
+    'fr': {
+        'FR':	0.685,
+        'BE':	0.057,
+        'CA':	0.047,
+        'CH':	0.015,	# Switzerland
+        'DZ':	0.011,	# Algeria
+        'MA':	0.010,	# Morocco
+        'ES':	0.008,
+        'DE':	0.008,
+        'US':	0.006,
+        'TN':	0.006,
+        'UK':	0.005
+    }
+}
 
-def getTotalContributions():
+def getTotalContributions(lang='en'):
     '''
-    Returns the percentage of contribution from each country to the total number 
-    of edits in english Wikipedia.
+    Returns the percentage of contribution from each country to the total number
+    of edits in the Wikipedia of the desired language.
     '''
-    return __totalEdits__.copy()
+    return __totalEdits__[lang].copy()
 
 def isAnon(rev):
     '''
@@ -51,15 +71,15 @@ def isAnon(rev):
 def getContributionsForPage(wiki, pageTitle):
     '''
     Retrieve revision history of a given page.
-    
+
     Returns a list of IP's (anon revisions) and user names (registred
-    users) which contributed to the given page, plus a total number of 
+    users) which contributed to the given page, plus a total number of
     revisions (user revisions + anon revisions)
 
     Parameters:
     wiki         wikiclient.Site object used for performing query
     pageTitle    Title of the target page.
-    
+
     Returns:
     anonIPs      IP addresses of anonimous revisions
     users        Username of registered users which contributed revisions
@@ -71,10 +91,10 @@ def getContributionsForPage(wiki, pageTitle):
 
     somePage = wiki.Pages[pageTitle]
     somePage = somePage.resolve_redirect()
-    
+
     if not somePage.exists:
         return [], [], 0
-    
+
     revs = somePage.revisions(prop='user', limit=500)
     for rev in revs:
         nRevs += 1
@@ -90,11 +110,11 @@ def getContributionsForPage(wiki, pageTitle):
 
 def getAllBots(wiki):
     '''
-    Create a set of all known bots in the given wiki. 
+    Create a set of all known bots in the given wiki.
 
     Parameters:
     wiki         wikiclient.Site object used for performing query
-    
+
     Returns:
     bots         A set of all known bots.
     '''
@@ -115,7 +135,7 @@ def getAllBots(wiki):
 def countExternalLinks(wikiPage):
     '''
     Count number of links to external pages (outside wikipedia)
-    
+
     wikiPage:   mwclient.page object
     '''
     links = wikiPage.extlinks()
@@ -124,7 +144,7 @@ def countExternalLinks(wikiPage):
 def countLinksToPage(wikiPage):
     '''
     Count number of pages that link to the given wiki page.
-    
+
     wikiPage:   mwclient.page object
     '''
     links = wikiPage.backlinks(filterredir='nonredirects', namespace=0)
@@ -141,7 +161,7 @@ def countLinksFromPage(wikiPage):
 def countLanguageLinks(wikiPage):
     '''
     Count the number of links to equivalent page in other languages
-    
+
     wikiPage:   mwclient.page object
     '''
     links = wikiPage.langlinks()
@@ -150,7 +170,7 @@ def countLanguageLinks(wikiPage):
 def countRevisions(wikiPage):
     '''
     Count the number of revisions for the given wiki page.
-    
+
     wikiPage:   mwclient.page object
     '''
     revs = wikiPage.revisions()
