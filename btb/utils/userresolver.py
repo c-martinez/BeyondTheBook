@@ -102,7 +102,7 @@ def __getCountrySeeds__(lang='en'):
         countrySeeds["PK"] = [ "Wikipedians in Pakistan", "Wikipedians in the Pakistan", "Pakistani Wikipedians" ]
         countrySeeds["FR"] = [ "Wikipedians in France", "French Wikipedians" ]
         countrySeeds["MY"] = [ "Wikipedians in Malaysia", "Malaysian Wikipedians" ]
-        countrySeeds["NL"] = [ "Wikipedians in Netherlands", "Wikipedians in the Netherlands", "Dutch Wikipedians" ]
+        countrySeeds["NL"] = [ "Wikipedians in the Netherlands", "Dutch Wikipedians" ]
         countrySeeds["ID"] = [ "Wikipedians in Indonesia", "Indonesian Wikipedians" ]
         countrySeeds["CN"] = [ "Wikipedians in China", "Wikipedians in Mainland China",
                               "Wikipedians in the People's Republic of China", "Wikipedians in the People's Republic of China/",

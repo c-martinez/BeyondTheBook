@@ -12,11 +12,11 @@ import btb.utils.userresolver as usr
 def countContributions(items, resolve):
     '''
     Returns the total number of contributions per country from the user list.
-    
+
     users     A list of usernames
-    
-    Returns a dictionary of country codes where the value of each entry is 
-    the number of contributions for that country. 
+
+    Returns a dictionary of country codes where the value of each entry is
+    the number of contributions for that country.
     '''
     contribs = {}
     for item in items:
@@ -30,11 +30,11 @@ def countContributions(items, resolve):
 def filterNonBots(users, bots):
     '''
     Filter the given list of usernames to Bot users.
-    
+
     Parameters:
     users       Original list of usernames
     bots        List of known Bots
-    
+
     Return:
     nonBots     List of users which are not Bots.
     '''
@@ -43,17 +43,17 @@ def filterNonBots(users, bots):
 def prepareData(ips, users, bots, lang='en'):
     '''
     Given a list of anonymous (IP) and registered user contributions
-    build a list of contributions by country and the proportion 
-    of contributions identified (via IP and via user info), for which 
-    country is unknown and which can be ignored. Confidence on data 
+    build a list of contributions by country and the proportion
+    of contributions identified (via IP and via user info), for which
+    country is unknown and which can be ignored. Confidence on data
     is the ratio of know / total data (after removing ignored data).
-    
+
     Parameters:
     ips        List of IP's which made the contributions
     users      List of usernames which made the contributions
     bots       Set of known bots
     lang       Language Wikipedia used to resolve country for given user names
-    
+
     Returns:
     contribs   Dictionary of contributions by country code
     confidence Degree of confidence of known data.
@@ -70,7 +70,7 @@ def prepareData(ips, users, bots, lang='en'):
     nBots = len(users) - len(nonBots)
 
     nUnknown = 0
-    
+
     # Resolve IP's
     ipContribs = countContributions(ips, ipr.getCountryCode)
     if None in ipContribs:
@@ -99,36 +99,37 @@ def prepareData(ips, users, bots, lang='en'):
     assert (nIPs + nUsers) == sum(contribs.values())
 
     # How much confidence could we have on conclusions drawn from this data
+    # zero confidence on know data
     usedData = nIPs + nUsers + nUnknown
-    confidence = (nIPs + nUsers) / usedData
-    
+    confidence = (nIPs + nUsers) / usedData if usedData>0 else 0
+
     # Sanity check
     assert confidence>=0 and confidence<=1
-    
+
     return contribs, confidence, nIPs, nUsers, nBots, nUnknown
 
 def compareEdits(globalEdits, pageEdits):
     '''
-    Compute how the number of edits performed by each country on an individual 
+    Compute how the number of edits performed by each country on an individual
     page compares with the overall percentage of edits performed by each country
     to Wikipedia as a whole.
-    
-    For example, if US users perform 38% of the edits for the whole of Wikipedia, 
-    it would be expected that for any given page, ~38% of the edits are from 
+
+    For example, if US users perform 38% of the edits for the whole of Wikipedia,
+    it would be expected that for any given page, ~38% of the edits are from
     US users. A higher number of edits could be considered as HIGHER_THAN_USUAL
     and likewise a lower number of edits as LOWER_THAN_USUAL.
-      
+
     Parameters:
     globalEdits   Percentage of edits performed by each country in Wikipedia
     pageEdits     Number of edits performed by each country to the wikipedia
                   page under analysis.
-    
+
     Return:
-    A dictionary (containing all countries from globalEdits and pageEdits), 
-    whose values are tuples of (global, page, relative) where global is the 
-    percentage of edits from that country to the whole of Wikipedia; 
-    page is the percentage of edits from that country to the Wikipedia 
-    page under analysis and relative is the comparison between the two. 
+    A dictionary (containing all countries from globalEdits and pageEdits),
+    whose values are tuples of (global, page, relative) where global is the
+    percentage of edits from that country to the whole of Wikipedia;
+    page is the percentage of edits from that country to the Wikipedia
+    page under analysis and relative is the comparison between the two.
     The comparison is performed by relativeInterest function.
     '''
     cmpEdits = {}
@@ -150,21 +151,21 @@ def compareEdits(globalEdits, pageEdits):
 
 def relativeInterest(gEdit,pEdit):
     '''
-    Given an expected (global) and actual (current page) percentages of 
-    countributions from a specific country to Wikipedia, calculate the relative 
+    Given an expected (global) and actual (current page) percentages of
+    countributions from a specific country to Wikipedia, calculate the relative
     intereste from that country on the topic of the page under analysis.
-    
-    This measure of relative interest is scaled in the interval [-1,1], 
-    where negative numbers represent LOWER_THAN_USUAL and positive numbers 
-    represent HIGHER_THAN_USUAL interest. This measure reaches 0 if the 
-    contributions made to the current page match the global contributions 
+
+    This measure of relative interest is scaled in the interval [-1,1],
+    where negative numbers represent LOWER_THAN_USUAL and positive numbers
+    represent HIGHER_THAN_USUAL interest. This measure reaches 0 if the
+    contributions made to the current page match the global contributions
     from the country. The measure grows linearly between [-1,0) and
     asymptotic between (0,1].
 
     Parameters:
     gEdit    Percentage of global edits from country in question.
     pEdit    Percentage of page edits from country in question.
-    
+
     Return:
     The relative measure of interest expressed by a country on a given page.
     '''
@@ -174,21 +175,21 @@ def getDebugWiki(host='en.wikipedia.org', debugLevel='verbose'):
     '''
     If you want to trace the requests made by mwclient, use this method
     to create your site
-    
+
     wiki = getDebugWiki(host='en.wikipedia.org', debugLevel='verbose')
     page = wiki.pages['Ice hockey']
-    
+
     Set debugLevel to 'warning' to produce only warnings returned by the API.
     (But not the URL called).
     '''
     import mwclient
     import requests
-    
+
     class VerboseHTTPPool(requests.Session):
         def __init__(self, debugLevel):
             super(VerboseHTTPPool, self).__init__()
             self.debugLevel = debugLevel
-        
+
         def post(self, url, data=None, **kwargs):
             if self.debugLevel == 'verbose':
                 print 'Using MyPool'
@@ -199,9 +200,9 @@ def getDebugWiki(host='en.wikipedia.org', debugLevel='verbose'):
                 for item in data:
                     postURL += item + '=' + str(data[item]) + '&'
                 print postURL
-            
+
             resp = super(VerboseHTTPPool, self).post(url, data, **kwargs)
-            
+
             if self.debugLevel == 'warning' or self.debugLevel == 'verbose':
                 try:
                     jsonResp = resp.json()
