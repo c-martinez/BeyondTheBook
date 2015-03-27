@@ -118,7 +118,8 @@ if __name__ == '__main__':
     sem = Semanticizer(langModel)
     print 'Language model loaded'
 
-    sent_tokenize = nltk.data.load('tokenizers/punkt/dutch.pickle')
+    # sent_tokenize = nltk.data.load('tokenizers/punkt/dutch.pickle')
+    sent_tokenize = pickle.load(open('nltk_punkt_dutch.pickle', 'r'))
 
     for teiFile in glob.glob(dataDir + '*.xml'):
         outFile = teiFile.replace(dataDir, 'output/')
