@@ -43,9 +43,9 @@ __totalEdits__ = {
         'FR':	0.685,
         'BE':	0.057,
         'CA':	0.047,
-        'CH':	0.015,	# Switzerland
-        'DZ':	0.011,	# Algeria
-        'MA':	0.010,	# Morocco
+        'CH':	0.015,  # Switzerland
+        'DZ':	0.011,  # Algeria
+        'MA':	0.010,  # Morocco
         'ES':	0.008,
         'DE':	0.008,
         'US':	0.006,
@@ -72,6 +72,7 @@ __totalEdits__ = {
     }
 }
 
+
 def getTotalContributions(lang='en'):
     '''
     Returns the percentage of contribution from each country to the total number
@@ -79,12 +80,14 @@ def getTotalContributions(lang='en'):
     '''
     return __totalEdits__[lang].copy()
 
+
 def isAnon(rev):
     '''
     Determine whether a given revision is anonimous or not.
     Anonimous revision elements MUST contain an 'anon' element.
     '''
     return 'anon' in rev.keys()
+
 
 def getContributionsForPage(wiki, pageTitle):
     '''
@@ -122,9 +125,11 @@ def getContributionsForPage(wiki, pageTitle):
             else:
                 users.append(rev['user'])
         except:
-            # User tag is not found on revs -- no info can be obtained for this revision
+            # User tag is not found on revs -- no info can be obtained for this
+            # revision
             pass
     return anonIPs, users, nRevs
+
 
 def getAllBots(wiki):
     '''
@@ -150,6 +155,7 @@ def getAllBots(wiki):
         bots = pickle.dump(bots, open(botsFile, 'w'))
         return bots
 
+
 def countExternalLinks(wikiPage):
     '''
     Count number of links to external pages (outside wikipedia)
@@ -158,6 +164,7 @@ def countExternalLinks(wikiPage):
     '''
     links = wikiPage.extlinks()
     return sum(1 for link in links)
+
 
 def countLinksToPage(wikiPage):
     '''
@@ -168,6 +175,7 @@ def countLinksToPage(wikiPage):
     links = wikiPage.backlinks(filterredir='nonredirects', namespace=0)
     return sum(1 for link in links)
 
+
 def countLinksFromPage(wikiPage):
     '''
     Count number of pages that are linked from the given wiki page.
@@ -175,6 +183,7 @@ def countLinksFromPage(wikiPage):
     '''
     links = wikiPage.links(namespace=0)
     return sum(1 for link in links)
+
 
 def countLanguageLinks(wikiPage):
     '''
@@ -184,6 +193,7 @@ def countLanguageLinks(wikiPage):
     '''
     links = wikiPage.langlinks()
     return sum(1 for link in links)
+
 
 def countRevisions(wikiPage):
     '''

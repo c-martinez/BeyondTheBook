@@ -10,6 +10,7 @@ import os
 
 __DATAFILE__ = 'usernames_LANG.pkl'
 
+
 def __getAllUsers__(cat):
     '''
     Produce a list of user & subcategories found under the given Category object
@@ -24,12 +25,13 @@ def __getAllUsers__(cat):
     users = []
     cats = []
     for user in cat:
-        if user.namespace==2:    # isUser
+        if user.namespace == 2:    # isUser
             users.append(user)
-        elif user.namespace==14: # isCategory
+        elif user.namespace == 14:  # isCategory
             cats.append(user)
         # We just ignore other namespaces
     return users, cats
+
 
 def __fetchUsersCategory__(cats, log, visited):
     '''
@@ -44,23 +46,24 @@ def __fetchUsersCategory__(cats, log, visited):
     allUsers
     '''
     allUsers = []
-    while len(cats)>0:
+    while len(cats) > 0:
         cat = cats.pop()
         if cat.name in visited:
-            print '   SKIPPING ',cat.name,' - previously visited'
+            print '   SKIPPING ', cat.name, ' - previously visited'
         else:
-            print 'Fetching ',cat.name,'...'
+            print 'Fetching ', cat.name, '...'
 
             catUsers, subCats = __getAllUsers__(cat)
             cats = cats + subCats
-            if len(subCats)>0:
+            if len(subCats) > 0:
                 for subCat in subCats:
-                    log.append((cat.name,subCat.name))
+                    log.append((cat.name, subCat.name))
 
-            log.append((cat.name,len(catUsers)))
+            log.append((cat.name, len(catUsers)))
             allUsers = allUsers + catUsers
             visited.add(cat.name)
     return allUsers
+
 
 def __getCountrySeeds__(lang='en'):
     '''
@@ -82,42 +85,51 @@ def __getCountrySeeds__(lang='en'):
     lang     Language Wikipedia for which categories are requested. (Default: english)
     '''
     countrySeeds = {}
-    if lang=='en':
-        countrySeeds["US"] = [ "Wikipedians in U.S.A.", "Wikipedians in United States", "Wikipedians in United States Of America",
+    if lang == 'en':
+        countrySeeds["US"] = ["Wikipedians in U.S.A.", "Wikipedians in United States", "Wikipedians in United States Of America",
                               "Wikipedians in United States of America", "Wikipedians in US", "Wikipedians in USA",
                               "Wikipedians in the United States", "Wikipedians in the United States of America",
-                              "American Wikipedians" ]
-        countrySeeds["UK"] = [ "Wikipedians in UK", "Wikipedians in United Kingdom", "Wikipedians in the United Kingdom",
-                              "Wikipedians in the UK", "British Wikipedians" ]
-        countrySeeds["IN"] = [ "Wikipedians in India", "Wikipedians in the India", "Wikipedians in the Republic of INDIA",
-                              "Indian Wikipedians" ]
-        countrySeeds["CA"] = [ "Wikipedians in Canada", "Canadian Wikipedians" ]
-        countrySeeds["AU"] = [ "Wikipedians in the Australia", "Wikipedians in AUSTRALIA", "Wikipedians in Australia",
-                              "Australian Wikipedians" ]
-        countrySeeds["PH"] = [ "Wikipedians in the Philippines", "Wikipedians in Philippines", "Filipino Wikipedians" ]
-        countrySeeds["DE"] = [ "Wikipedians in Germany", "German Wikipedians" ]
-        countrySeeds["BR"] = [ "Wikipedians in Brazil", "Brazilian Wikipedians" ]
-        countrySeeds["IT"] = [ "Wikipedians in Italy", "Italian Wikipedians" ]
-        countrySeeds["IE"] = [ "Wikipedians in Ireland", "Wikipedians in the Republic of Ireland", "Irish Wikipedians", "Scotch-Irish Wikipedians" ]
-        countrySeeds["PK"] = [ "Wikipedians in Pakistan", "Wikipedians in the Pakistan", "Pakistani Wikipedians" ]
-        countrySeeds["FR"] = [ "Wikipedians in France", "French Wikipedians" ]
-        countrySeeds["MY"] = [ "Wikipedians in Malaysia", "Malaysian Wikipedians" ]
-        countrySeeds["NL"] = [ "Wikipedians in the Netherlands", "Dutch Wikipedians" ]
-        countrySeeds["ID"] = [ "Wikipedians in Indonesia", "Indonesian Wikipedians" ]
-        countrySeeds["CN"] = [ "Wikipedians in China", "Wikipedians in Mainland China",
+                              "American Wikipedians"]
+        countrySeeds["UK"] = ["Wikipedians in UK", "Wikipedians in United Kingdom", "Wikipedians in the United Kingdom",
+                              "Wikipedians in the UK", "British Wikipedians"]
+        countrySeeds["IN"] = ["Wikipedians in India", "Wikipedians in the India", "Wikipedians in the Republic of INDIA",
+                              "Indian Wikipedians"]
+        countrySeeds["CA"] = ["Wikipedians in Canada", "Canadian Wikipedians"]
+        countrySeeds["AU"] = ["Wikipedians in the Australia", "Wikipedians in AUSTRALIA", "Wikipedians in Australia",
+                              "Australian Wikipedians"]
+        countrySeeds["PH"] = ["Wikipedians in the Philippines",
+                              "Wikipedians in Philippines", "Filipino Wikipedians"]
+        countrySeeds["DE"] = ["Wikipedians in Germany", "German Wikipedians"]
+        countrySeeds["BR"] = ["Wikipedians in Brazil", "Brazilian Wikipedians"]
+        countrySeeds["IT"] = ["Wikipedians in Italy", "Italian Wikipedians"]
+        countrySeeds["IE"] = ["Wikipedians in Ireland", "Wikipedians in the Republic of Ireland",
+                              "Irish Wikipedians", "Scotch-Irish Wikipedians"]
+        countrySeeds["PK"] = ["Wikipedians in Pakistan",
+                              "Wikipedians in the Pakistan", "Pakistani Wikipedians"]
+        countrySeeds["FR"] = ["Wikipedians in France", "French Wikipedians"]
+        countrySeeds["MY"] = [
+            "Wikipedians in Malaysia", "Malaysian Wikipedians"]
+        countrySeeds["NL"] = [
+            "Wikipedians in the Netherlands", "Dutch Wikipedians"]
+        countrySeeds["ID"] = [
+            "Wikipedians in Indonesia", "Indonesian Wikipedians"]
+        countrySeeds["CN"] = ["Wikipedians in China", "Wikipedians in Mainland China",
                               "Wikipedians in the People's Republic of China", "Wikipedians in the People's Republic of China/",
-                              "Wikipedians in the Republic of China", "Chinese Wikipedians" ]
-        countrySeeds["NZ"] = [ "Wikipedians in New Zealand" ]
-        countrySeeds["ES"] = [ "Wikipedians in Spain", "Wikipedians in in Spain", "Spanish Wikipedians" ]
-        countrySeeds["IR"] = [ "Wikipedians in the Iran", "Wikipedians in Iran", "Iranian Wikipedians" ]
-        countrySeeds["MX"] = [ "Wikipedians in Mexico", "Mexican Wikipedians" ]
-        countrySeeds["SE"] = [ "Wikipedians in Sweden", "Swedish Wikipedians" ]
-        countrySeeds["RU"] = [ "Wikipedians in Russia", "Russian Wikipedians" ]
-        countrySeeds["GR"] = [ "Wikipedians in Greece", "Greek Wikipedians" ]
-        countrySeeds["TR"] = [ "Wikipedians in Turkey", "Turkish Wikipedians" ]
-    elif lang=='nl':
-        countrySeeds["NL"] = [ "Wikipedia:Gebruiker nl-M" ]
+                              "Wikipedians in the Republic of China", "Chinese Wikipedians"]
+        countrySeeds["NZ"] = ["Wikipedians in New Zealand"]
+        countrySeeds["ES"] = [
+            "Wikipedians in Spain", "Wikipedians in in Spain", "Spanish Wikipedians"]
+        countrySeeds["IR"] = [
+            "Wikipedians in the Iran", "Wikipedians in Iran", "Iranian Wikipedians"]
+        countrySeeds["MX"] = ["Wikipedians in Mexico", "Mexican Wikipedians"]
+        countrySeeds["SE"] = ["Wikipedians in Sweden", "Swedish Wikipedians"]
+        countrySeeds["RU"] = ["Wikipedians in Russia", "Russian Wikipedians"]
+        countrySeeds["GR"] = ["Wikipedians in Greece", "Greek Wikipedians"]
+        countrySeeds["TR"] = ["Wikipedians in Turkey", "Turkish Wikipedians"]
+    elif lang == 'nl':
+        countrySeeds["NL"] = ["Wikipedia:Gebruiker nl-M"]
     return countrySeeds
+
 
 def __fetchData__(lang='en'):
     '''
@@ -146,8 +158,8 @@ def __fetchData__(lang='en'):
 
     for country in countrySeeds:
         seeds = countrySeeds[country]
-        cats = [ wiki.Categories[seed] for seed in seeds ]
-        log = log + [ (country, seed) for seed in seeds ]
+        cats = [wiki.Categories[seed] for seed in seeds]
+        log = log + [(country, seed) for seed in seeds]
         users[country] = __fetchUsersCategory__(cats, log, visited)
 
     usernameSets = {}
@@ -157,6 +169,7 @@ def __fetchData__(lang='en'):
             usernameSets[country].add(user.name)
 
     return usernameSets, log
+
 
 def __loadData__(lang='en'):
     '''
@@ -174,6 +187,7 @@ def __loadData__(lang='en'):
     usernameSets, log = pickle.load(open(dataFile, 'r'))
     return usernameSets, log
 
+
 def getUserCountry(user, lang='en'):
     '''
     Search for the given username and return its country code.
@@ -184,18 +198,19 @@ def getUserCountry(user, lang='en'):
     Returns
     The country of the given user (or None, if no country information is known).
     '''
-    if lang=='en':
+    if lang == 'en':
         uUser = 'User:' + user
-    elif lang=='nl':
+    elif lang == 'nl':
         uUser = 'Gebruiker:' + user
     else:
         uUser = user
 
-    userMap,log = __getUserMap__(lang)
+    userMap, log = __getUserMap__(lang)
     for country in userMap:
         if uUser in userMap[country]:
             return country
     return None
+
 
 def __getDataFileName__(lang):
     '''
@@ -206,6 +221,7 @@ def __getDataFileName__(lang):
     lang     Language of the pickle file.
     '''
     return __DATAFILE__.replace('LANG', lang)
+
 
 def __getUserMap__(lang):
     '''
@@ -244,4 +260,4 @@ def __getUserMap__(lang):
 __langUserMaps__ = {}
 
 if __name__ == '__main__':
-    assert getUserCountry('Alaney2k')=='CA' # Random canadian user
+    assert getUserCountry('Alaney2k') == 'CA'  # Random canadian user

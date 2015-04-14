@@ -9,6 +9,7 @@ import numpy as np
 import wikidat.utils.ipresolver as ipr
 import btb.utils.userresolver as usr
 
+
 def countContributions(items, resolve):
     '''
     Returns the total number of contributions per country from the user list.
@@ -27,6 +28,7 @@ def countContributions(items, resolve):
             contribs[cc] = 1
     return contribs
 
+
 def filterNonBots(users, bots):
     '''
     Filter the given list of usernames to Bot users.
@@ -38,7 +40,8 @@ def filterNonBots(users, bots):
     Return:
     nonBots     List of users which are not Bots.
     '''
-    return [ user for user in users if not user in bots ]
+    return [user for user in users if not user in bots]
+
 
 def prepareData(ips, users, bots, lang='en'):
     '''
@@ -90,7 +93,7 @@ def prepareData(ips, users, bots, lang='en'):
     assert nrevs == (nUnknown + nBots + nIPs + nUsers)
 
     contribs = {}
-    for cc in np.unique(np.hstack([ ipContribs.keys(), userContribs.keys() ] )):
+    for cc in np.unique(np.hstack([ipContribs.keys(), userContribs.keys()])):
         contribs[cc] = 0
         contribs[cc] += ipContribs[cc] if cc in ipContribs else 0
         contribs[cc] += userContribs[cc] if cc in userContribs else 0
@@ -101,12 +104,13 @@ def prepareData(ips, users, bots, lang='en'):
     # How much confidence could we have on conclusions drawn from this data
     # zero confidence on know data
     usedData = nIPs + nUsers + nUnknown
-    confidence = (nIPs + nUsers) / usedData if usedData>0 else 0
+    confidence = (nIPs + nUsers) / usedData if usedData > 0 else 0
 
     # Sanity check
-    assert confidence>=0 and confidence<=1
+    assert confidence >= 0 and confidence <= 1
 
     return contribs, confidence, nIPs, nUsers, nBots, nUnknown
+
 
 def compareEdits(globalEdits, pageEdits):
     '''
@@ -145,11 +149,12 @@ def compareEdits(globalEdits, pageEdits):
             a = pageEdits[country] / normFact   # Actual percentage of edits
         except:
             a = 0
-        m = relativeInterest(e,a)
-        cmpEdits[country] = (e,a,m)
+        m = relativeInterest(e, a)
+        cmpEdits[country] = (e, a, m)
     return cmpEdits
 
-def relativeInterest(gEdit,pEdit):
+
+def relativeInterest(gEdit, pEdit):
     '''
     Given an expected (global) and actual (current page) percentages of
     countributions from a specific country to Wikipedia, calculate the relative
@@ -169,7 +174,8 @@ def relativeInterest(gEdit,pEdit):
     Return:
     The relative measure of interest expressed by a country on a given page.
     '''
-    return (pEdit/gEdit-1) if pEdit<gEdit else (1-gEdit/pEdit)
+    return (pEdit / gEdit - 1) if pEdit < gEdit else (1 - gEdit / pEdit)
+
 
 def getDebugWiki(host='en.wikipedia.org', debugLevel='verbose'):
     '''
@@ -186,6 +192,7 @@ def getDebugWiki(host='en.wikipedia.org', debugLevel='verbose'):
     import requests
 
     class VerboseHTTPPool(requests.Session):
+
         def __init__(self, debugLevel):
             super(VerboseHTTPPool, self).__init__()
             self.debugLevel = debugLevel
@@ -193,8 +200,8 @@ def getDebugWiki(host='en.wikipedia.org', debugLevel='verbose'):
         def post(self, url, data=None, **kwargs):
             if self.debugLevel == 'verbose':
                 print 'Using MyPool'
-                print ' > URL : ',url
-                print ' > Data: ',data
+                print ' > URL : ', url
+                print ' > Data: ', data
                 print ' > FullURL: ',
                 postURL = url + '?'
                 for item in data:
@@ -207,10 +214,11 @@ def getDebugWiki(host='en.wikipedia.org', debugLevel='verbose'):
                 try:
                     jsonResp = resp.json()
                     if 'warnings' in jsonResp:
-                        print 'WARNING: ',jsonResp['warnings']
+                        print 'WARNING: ', jsonResp['warnings']
                 except:
                     pass
             return resp
 
-    wiki = mwclient.Site(host=host, pool=VerboseHTTPPool(debugLevel=debugLevel))
+    wiki = mwclient.Site(
+        host=host, pool=VerboseHTTPPool(debugLevel=debugLevel))
     return wiki
