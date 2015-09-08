@@ -7,33 +7,37 @@ Created on Aug 5, 2014
 '''
 Percentage of contribution from each country to the total number of edits in english Wikipedia.
 Taken from http://stats.wikimedia.org/wikimedia/squids/SquidReportPageEditsPerLanguageBreakdown.htm
+Generated on Thu, Jan 8, 2015 21:01 (bottom of page)
 '''
 __totalEdits__ = {
     'en': {
-        'US':  0.383,
-        'UK':  0.132,
-        'IN':  0.069,
+        'US':  0.367,
+        'UK':  0.131,
+        'IN':  0.067,
         'CA':  0.054,
-        'AU':  0.036,
-        'PH':  0.026,
+        'AU':  0.031,
+        'PH':  0.024,
         'DE':  0.015,
-        'BR':  0.011,
-        'IT':  0.01,
-        'IE':  0.01,
-        'PK':  0.009,
-        'FR':  0.008,
-        'MY':  0.008,
-        'NL':  0.008,
+        'BR':  0.012,
+        'NL':  0.011,
+        'PK':  0.010,
+        'IT':  0.010,
+        'FR':  0.009,
+        'MY':  0.009,
+        'IE':  0.009,
         'ID':  0.008,
-        'CN':  0.007,
-        'NZ':  0.007,
         'ES':  0.007,
-        'IR':  0.007,
-        'MX':  0.005,
+        'PT':  0.006,
+        'MX':  0.006,
+        'TR':  0.006,
+        'GR':  0.006,
+        'NZ':  0.005,
         'SE':  0.005,
-        'RU':  0.005,
-        'GR':  0.005,
-        'TR':  0.005
+        'TH':  0.005,
+        'IL':  0.005,
+        'SG':  0.005,
+        'CN':  0.004,# China and Russia disappeared! So I'll assume they dropped below 0.5%
+        'RU':  0.004,
     },
     'nl': {
         'NL':	0.665,
