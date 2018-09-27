@@ -7,6 +7,14 @@ authors:
     family-names: "Martinez-Ortiz"
     given-names: Carlos
     orcid: "https://orcid.org/0000-0001-5565-7577"
+  -
+    family-names: Koolen
+    given-names: Marijn
+    orcid: "https://orcid.org/0000-0002-0301-2029"
+  -
+    family-names: "Dalen-Oskam"
+    given-names: Karina
+    name-particle: van
 cff-version: "1.0.3"
 date-released: 2018-09-27
 doi: "10.5281/zenodo.1436372"
